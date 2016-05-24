@@ -1,1 +1,504 @@
-identifier,title,year_published,pre_1923,1923-1963_copyright_not_renewed,notes,urls
+identifier,author,title,year_published,pre_1923,1923-1963_copyright_not_renewed,in_loebolus,notes,urls
+L001,Apollonius Rhodius,Apollonius Rhodius. Argonautica,1912,true,"",true,New title: Argonautica,http://books.google.com/books?id=O5ANAAAAIAAJ
+L002,Appian,Roman History I: Books 1-8.1,1912,true,"",true,"",http://www.archive.org/details/appiansromanhist01appi http://books.google.com/books?id=LHg0u8q9bL8C
+L003,Appian,Roman History II: Books 8.2-12,1912,true,"",true,"",http://www.archive.org/details/appiansromanhist02appi
+L004,Appian,"Roman History III: The Civil Wars, Books 1-3.26",1913,true,"",true,"",http://www.archive.org/details/appiansromanhist03appi
+L005,Appian,"Roman History IV: The Civil Wars, Books 3.27-5",1913,true,"",true,"",http://www.archive.org/details/appiansromanhist04appi http://books.google.com/books?id=Xex81ufLfoIC
+L006,Catullus,Catullus. Tibullus. Pervigilium Veneris,,,"",true,"",""
+L007N,Cicero,Letters to Atticus I,1912,true,"",true,New title: Volume XXII: Letters to Atticus 1-89,http://www.archive.org/details/letterstoatticus01ciceuoft http://books.google.com/books?id=4yW3YNAWmwQC
+L008N,Cicero,Letters to Atticus II,1913,true,"",true,New title: Volume XXIII: Letters to Atticus 90-165A,http://www.archive.org/details/letterstoatticus02ciceuoft http://books.google.com/books?id=dMyx1LfFZoQC
+L009,Euripides,Euripides I: Iphigenia at Aulis. Rhesus. Hecuba. The Daughters of Troy. Helen,1916,true,"",true,New title: Volume III: Suppliant Women. Electra. Heracles,http://www.archive.org/details/euripidesway01euriuoft http://books.google.com/books?id=GmRiAAAAMAAJ
+L010N,Euripides,Euripides II: Electra. Orestes. Iphigeneia in Taurica. Andromache. Cyclops,1912,true,"",true,New title: Volume IV: Trojan Women. Iphigenia among the Taurians. Ion,http://www.archive.org/details/euripideswitheng02euri http://books.google.com/books?id=ti5JAAAAYAAJ
+L011N,Euripides,Euripides III: Bacchanals. Madness of Hercules. Children of Hercules. Phoenician Maidens. Suppliants,1912,true,"",true,New title: Volume V: Helen. Phoenician Women. Orestes,http://www.archive.org/details/euripidesway03euriuoft http://books.google.com/books?id=KmViAAAAMAAJ
+L012,Euripides,Euripides IV: Ion. Hippolytus. Medea. Alcestis,1912,true,"",true,New title: Volume I: Cyclops. Alcestis. Medea,http://www.archive.org/details/euripidesway04euriuoft http://books.google.com/books?id=gS9JAAAAYAAJ
+L013,Julian,Julian I: Orations 1-5,1913,true,"",true,New title: Volume I: Orations 1-5,http://books.google.com/books?id=vmZiAAAAMAAJ
+L014,Lucian,Lucian I: Phalaris. Hippias or The Bath. Dionysus. Heracles. Amber or The Swans. The Fly. Nigrinus. Demonax. The Hall. My Native Land. Octogenarians. A True Story. Slander. The Consonants at Law. The Carousal (Symposium) or The Lapiths,1913,true,"",true,New title: Volume I: Phalaris. Hippias or The Bath. Dionysus. Heracles. Amber or The Swans. The Fly. Nigrinus. Demonax. The Hall. My Native Land. Octogenarians. A True Story. Slander. The Consonants at Law. The Carousal (Symposium) or The Lapiths,http://www.archive.org/details/lucianha01luciuoft http://books.google.com/books?id=Y2tiAAAAMAAJ
+L015,Petronius,Satyricon. Apocolocyntosis,1913,true,"",true,"",http://books.google.com/books?id=SXlfAAAAMAAJ
+L016N,Philostratus,Life of Apollonius of Tyana I,1912,true,"",true,"New title: Apollonius of Tyana I: Life of Apollonius of Tyana, Books 1-4",http://books.google.com/books?id=nzghyc2nJbMC
+L017N,Philostratus,Life of Apollonius of Tyana II,1912,true,"",true,"New title: Apollonius of Tyana II: Life of Apollonius of Tyana, Books 5-8",http://books.google.com/books?id=sVu2B54Pq4EC
+L018N,Propertius,Propertius,1916,true,"",true,New title: Elegies,http://books.google.com/books?id=AGgQnqs5_yUC
+L019,Quintus Smyrnaeus,Fall of Troy,1913,true,"",true,New title: The Fall of Troy,http://www.archive.org/details/falloftroy00quin http://books.google.com/books?id=dzuucsTbUXcC
+L020,Sophocles,Sophocles I: Oedipus the King. Oedipus at Colonus. Antigone,1912,true,"",true,New title: Volume I: Ajax. Electra. Oedipus Tyrannus,http://books.google.com/books?id=5qUNAAAAIAAJ
+L021,Sophocles,Sophocles II: Ajax. Electra. Trachiniae. Philoctetes.,1913,true,"",true,New title: Volume II: Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus,http://books.google.com/books?id=JKYNAAAAIAAJ
+L022N,Terence,Terence I: The Lady of Andeos. The Self-Tormentor. The Eunich,1912,true,"",true,New title: Volume I: The Woman of Andros. The Self-Tormentor. The Eunuch,http://books.google.com/books?id=0BsMAAAAIAAJ
+L023N,Terence,Terence II: Phormio. The Mother-in-Law. The Brothers,1920,true,"",true,New title: Volume II: Phormio. The Mother-in-Law. The Brothers,http://www.archive.org/details/terence00tereuoft http://books.google.com/books?id=IRwMAAAAIAAJ
+L024N,"",Apostolic Fathers I: I Clement. II Clement. Ignatiius. Polycarp. Didache. Barnaba,1919,true,"",true,New title: Apostolic Fathers I: I Clement. II Clement. Ignatius. Polycarp. Didache,http://www.archive.org/details/theapostolicfath00unknuoft http://books.google.com/books?id=iqoNAAAAIAAJ
+L025N,"",Apostolic Fathers II: Shepherd of Hermas. Martyrdom of Polycarp. Epistle to Diognetus.,1917,true,"",true,New title: Apostolic Fathers II: Epistle of Barnabas. Papias and Quadratus. Epistle to Diognetus. The Shepherd of Hermas,http://books.google.com/books?id=lqsNAAAAIAAJ
+L026,Augustine,Confessions I: Books 1-8,1912,true,"",true,"",http://www.archive.org/details/staugustinesconf01augu http://books.google.com/books?id=6zEMAQAAIAAJ
+L027,Augustine,Confessions II: Books 9-13,1912,true,"",true,"",http://www.archive.org/details/staugustinesconf02augu
+L028,"",Greek Bucolic Poets,1912,true,"",true,New title: Greek Bucolic Poets: Theocritus. Bion. Moschus,http://books.google.com/books?id=IMrCpKxmgCUC
+L029,Julian,"Julian II: Orations 6-8. Letters to Themistius, To the Senate and People of Athens, To a Priest. The Caesars. Misopogon",1913,true,"",true,"New title: Volume II: Orations 6-8. Letters to Themistius, To the Senate and People of Athens, To a Priest. The Caesars. Misopogon",http://www.archive.org/details/worksofemperorju02juliuoft http://books.google.com/books?id=jWdiAAAAMAAJ
+L030,Cicero,De Officiis,1913,true,"",true,New title: Volume XXI: On Duties,http://www.archive.org/details/deofficiiswithen00ciceuoft http://books.google.com/books?id=tKb-ah7iIgAC
+L031,Suetonius,Suetonius I: Julius. Augustus. Tiberius. Gaius. Caligula,1913,true,"",true,New title: Lives of the Caesars I: Julius. Augustus. Tiberius. Gaius. Caligula,http://books.google.com/books?id=NJv_zeFbFi4C
+L032,Dio Cassius,Dio's Roman History I: Fragments of Books 1-11,1914,true,"",true,"",http://books.google.com/books?id=0FaIMECEZgoC
+L033N,Horace,Volume I: Odes and Epodes,,,"",false,"",""
+L034,John Damascene,Barlaam and Ioasaph,1914,true,"",true,"",http://books.google.com/books?id=RVRFAAAAYAAJ
+L035,Tacitus,"Dialogus, Agricola, Germania",1914,true,"",true,New title: Volume I: Agricola. Germania. Dialogue on Oratory,http://books.google.com/books?id=zB0cAQAAIAAJ
+L036,Plato,Euthyphro. Apology. Crito. Phaedo. Phaedrus,1913,true,"",true,New title: Volume I: Euthyphro. Apology. Crito. Phaedo. Phaedrus,http://www.archive.org/details/plato01plat http://books.google.com/books?id=qFIMAAAAIAAJ
+L037,Dio Cassius,Dio's Roman History II: Fragments of Books 12-35 and of Uncertain Reference,1914,true,"",true,"",http://books.google.com/books?id=wcdiAAAAMAAJ
+L038,Suetonius,"Suetonius II: Claudius. Nero. Galba, Otho, and Vitellius. Vespasian. Titus, Domitian. Lives of Illustrious Men: Grammarians and Rhetoricians. Poets (Terence. Virgil. Horace. Tibullus. Persius. Lucan). Lives of Pliny the Elder and Passienus Crispus",1920,true,"",true,"New title: Lives of the Caesars II: Claudius. Nero. Galba, Otho, and Vitellius. Vespasian. Titus, Domitian. Lives of Illustrious Men: Grammarians and Rhetoricians. Poets (Terence. Virgil. Horace. Tibullus. Persius. Lucan). Lives of Pliny the Elder…",http://www.archive.org/details/suetonius02suetuoft http://books.google.com/books?id=s6b9HA_WE28C
+L039,Caesar,The Civil Wars,1914,true,"",true,New title: Volume II: The Civil Wars,http://books.google.com/books?id=PaQNAAAAIAAJ
+L040,Cicero,De Finibus Bonorum et Malorum,1914,true,"",true,New title: Volume XVII: On Ends,http://www.archive.org/details/definibusbonoru02cicegoog http://books.google.com/books?id=C0ZuoEMeeeAC
+L041,Ovid,Heroides. Amores,1914,true,"",true,New title: Volume I: Heroides. Amores,http://www.archive.org/details/heroidesamores00ovid
+L042,Ovid,Metamorphoses I: Books 1-8,1951,false,true,true,"New title: Volume III: Metamorphoses, Books 1-8",http://www.archive.org/details/metamorphoses01oviduoft
+L043,Ovid,Metamorphoses II: Books 9-15,1916,true,"",true,"New title: Volume IV: Metamorphoses, Books 9-15",http://books.google.com/books?id=gWhfAAAAMAAJ
+L044,Apuleius,The Golden Ass,1922,true,"",true,New title: Metamorphoses (The Golden Ass) I: Books 1-6,http://www.archive.org/details/goldenassbeingme00apuliala
+L045,Achilles Tatius,Clitophon and Leucippe,1917,true,"",true,New title: The Adventures of Leucippe and Clitophon,http://books.google.com/books?id=szH1UVBtSzcC
+L046,Plutarch,Lives I: Theseus and Romulus. Lycurgus and Numa. Solon and Publicola,1914,true,"",true,"",http://www.archive.org/details/plutarchslives01plut2 http://books.google.com/books?id=xWYMAAAAIAAJ
+L047,Plutarch,Lives II: Themistocles and Camillus. Aristides and Cato Major. Cimon and Lucullus,1914,true,"",true,"",http://www.archive.org/details/plutarchslives02plut2 http://books.google.com/books?id=xmYMAAAAIAAJ
+L048,Procopius,"Procopius I: History of the Wars, Books 1-2. (Persian War)",1914,true,"",true,"New title: Volume I: History of the Wars, Books 1-2. (Persian War)",http://www.archive.org/details/procopiuswitheng01procuoft http://books.google.com/books?id=9IQbAAAAMAAJ
+L049,Strabo,Geography I: Books 1-2,1917,true,"",true,"",http://www.archive.org/details/geographystrabo01stergoog http://books.google.com/books?id=nqcNAAAAIAAJ
+L050,Strabo,Geography II: Books 3-5,,,"",false,"",""
+L051,Xenophon,Cyropaedia I: Books 1-4,1914,true,"",true,"New title: Volume V: Cyropaedia, Books 1-4",http://www.archive.org/details/cyropaediawithen01xenouoft http://books.google.com/books?id=gaQNAAAAIAAJ
+L052,Xenophon,Cyropaedia II: Books 5-8,1914,true,"",true,"New title: Volume VI: Cyropaedia, Books 5-8",http://www.archive.org/details/cyropaedia03xenogoog http://books.google.com/books?id=I13EUvMSDyIC
+L053,Dio Cassius,Dio's Roman History III: Books 36-40,1914,true,"",true,"",http://www.archive.org/details/diosromanhistory03cassuoft http://books.google.com/books?id=3EhhOznnQG0C
+L054,Lucian,Lucian II: The Downward Journey or The Tyrant. Zeus Catechized. Zeus Rants. The Dream or The Cock. Prometheus. Icaromenippus or The Sky-man. Timon or The Misanthrope. Charon or The Inspectors. Philosophies for Sale,1919,true,"",true,New title: Volume II: The Downward Journey or The Tyrant. Zeus Catechized. Zeus Rants. The Dream or The Cock. Prometheus. Icaromenippus or The Sky-man. Timon or The Misanthrope. Charon or The Inspectors. Philosophies for Sale,http://www.archive.org/details/lucianhar02luciuoft http://books.google.com/books?id=yslZWHpj424C
+L055,Pliny the Younger,Letters I: Books 1-7,1915,true,"",true,"",http://www.archive.org/details/letterswithengli01plinuoft http://books.google.com/books?id=yXhfAAAAMAAJ
+L056,Pindar,Odes of Pindar Including the Principal Fragments,1915,true,"",true,New title: Volume I: Olympian Odes. Pythian Odes,http://www.archive.org/details/odesofpindarsand00pinduoft
+L057N,Hesiod,Homeric Hymns and Homerica,1914,true,"",true,New title: Theogony. Works and Days. Testimonia,http://www.archive.org/details/hesiodhomerichym00hesiuoft
+L058,Marcus Aurelius,"Communings with Himself of Marcus Aurelius Antoninus, Emperor of Rome",1916,true,"",true,New title: Marcus Aurelius,http://www.archive.org/details/thecommuningswit00marcuoft http://books.google.com/books?id=H51fAAAAMAAJ
+L059,Pliny the Younger,Letters II: Books 7-10,1915,true,"",true,New title: Letters II: Books 8-10. Panegyricus,http://www.archive.org/details/letterswithengli02plinuoft http://books.google.com/books?id=TTsMAAAAIAAJ
+L060,Plautus,Plautus I: Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives,1916,true,"",true,New title: Volume I: Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives,http://books.google.com/books?id=7qKEAAAAIAAJ
+L061,Plautus,Plautus II: Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses,1917,true,"",true,New title: Volume II: Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses,http://books.google.com/books?id=tIZfAAAAMAAJ
+L062N,Seneca,Tragedies I: Hercules Furens. Troades. Medea. Hippolytus. Oedipus,1917,true,"",true,New title: Volume VIII: Tragedies I,http://books.google.com/books?id=S6pM-L1KuD8C
+L063N,Virgil,"Eclogues. Georgics. Aeneid, Books 1-6",1916,true,"",true,"New title: Volume I: Eclogues. Georgics. Aeneid, Books 1-6",http://books.google.com/books?id=ERsMAAAAIAAJ&printsec=titlepage
+L064N,Virgil,"Aeneid Books 7-12, The Minor Poems",1918,true,"",true,"New title: Volume II: Aeneid Books 7-12, Appendix Vergiliana",http://books.google.com/books?id=ThoMAAAAIAAJ
+L065,Plutarch,Lives III: Pericles and Fabius Maximus. Nicias and Crassus,1932,false,true,true,"",http://www.archive.org/details/liveswithenglish03plutuoft
+L066,Dio Cassius,Dio's Roman History IV: Books 41-45,1916,true,"",true,"",http://books.google.com/books?id=zVFiAAAAMAAJ
+L067,"",Greek Anthology I: Book 1: Christian Epigrams. Book 2: Christodorus of Thebes in Egypt. Book 3: The Cyzicene Epigrams. Book 4: The Proems of the Different Anthologies. Book 5: The Amatory Epigrams. Book 6: The Dedicatory Epigrams,1916,true,"",true,"",http://books.google.com/books?id=XFKEAAAAIAAJ
+L068,"",Greek Anthology II: Book 7: Sepulchral Epigrams. Book 8: The Epigrams of St. Gregory the Theologian,1919,true,"",true,"",http://books.google.com/books?id=hBQOAAAAYAAJ
+L069,Longus,Daphnis and Chloe. Love Romances and Poetical Fragments. Fragments of the Ninus Romance,1916,true,"",true,"",http://books.google.com/books?id=0b2iZ-ry6iYC
+L070,Theophrastus,Enquiry into Plants I: Books 1-5,1916,true,"",true,"",http://books.google.com/books?id=OuAW71tsKL0C
+L071,Galen,On the Natural Faculties,1916,true,"",true,"",http://books.google.com/books?id=8HTYJ788kTAC
+L072,Caesar,The Gallic War,1919,true,"",true,New title: Volume I: The Gallic War,http://books.google.com/books?id=Ks0bvIN7DPMC
+L073,Aristotle,Volume XIX: Nicomachean Ethics,,,"",false,"",""
+L074,Boethius,Theological Tractates and The Consolation of Philosophy,1918,true,"",true,"",http://www.archive.org/details/theologicaltract00boet http://books.google.com/books?id=RmVJAAAAMAAJ
+L075,Seneca,Ad Lucilium Epistulae Morales I: Letters 1-65,1917,true,"",true,New title: Volume IV: Epistles 1-65,http://www.archive.org/details/adluciliumepistu01sene
+L076,Seneca,Ad Lucilium Epistulae Morales II: Letters 66-92,1920,true,"",true,New title: Volume V: Epistles 66-92,http://www.archive.org/details/adluciliumepistu02sene
+L077,Seneca,Volume VI: Epistles 93-124,,,"",false,"",""
+L078N,Seneca,Tragedies II: Agamemnon. Thyestes. Hercules Oetaeus. Phoenissae. Octavia,1917,true,"",true,New title: Volume IX: Tragedies II,http://www.archive.org/details/tragedies00sene http://books.google.com/books?id=4R1SKQsZQaUC
+L079,Theophrastus,Enquiry into Plants II: Books 6-9. Treatise on Odours. Concerning Weather Signs,1916,true,"",true,"",http://www.archive.org/details/enquiryintoplant02theouoft http://books.google.com/books?id=SAasfiFvgd0C
+L080,Plutarch,Lives IV: Alcibiades and Coriolanus. Lysander and Sulla,1916,true,"",true,"",http://www.archive.org/details/plutarchslives04plut http://books.google.com/books?id=0SwMAAAAIAAJ
+L081,Procopius,"Procopius II: History of the Wars, Books 3-4. (Vandalic War)",1916,true,"",true,"New title: Volume II: History of the Wars, Books 3-4. (Vandalic War)",http://books.google.com/books?id=iNVfAAAAMAAJ
+L082,Dio Cassius,Dio's Roman History V: Books 46-50,1960,false,true,true,"",http://www.archive.org/details/diosromanhistory05cassuoft
+L083,Dio Cassius,Dio's Roman History VI: Books 51-55,1960,false,true,true,"",http://www.archive.org/details/diosromanhistory06cassuoft
+L084,"",Greek Anthology III: The Declamatory Epigrams,1917,true,"",true,"",http://books.google.com/books?id=EhwOAAAAYAAJ
+L085,"",Greek Anthology IV: Book 10: The Hortatory and Admonitory Epigrams. Book 11: The Convivial and Satirical Epigrams. Book 12: Strato's Musa Puerilis,1918,true,"",true,"",http://books.google.com/books?id=F41fAAAAMAAJ
+L086,"","Greek Anthology V: Book 13: Epigrams in Various Metres. Book 14: Arithmetical Problems, Riddles, Oracles. Book 15: Miscellanea. Book 16: Epigrams of the Planudean Anthology Not in the Palatine Manuscript",1918,true,"",true,"",http://books.google.com/books?id=RIxfAAAAMAAJ
+L087,Plutarch,Lives V: Agesilaus and Pompey. Pelopidas and Marcellus,1917,true,"",true,"",http://www.archive.org/details/plutarchslives05plut http://books.google.com/books?id=2GYMAAAAIAAJ
+L088,Xenophon,"Hellenica, Books 1-5",1918,true,"",true,"New title: Volume I: Hellenica, Books 1-4",http://www.archive.org/details/xenophonwithengl01xenouoft http://books.google.com/books?id=7w8-5jp2KLwC
+L089,Xenophon,"Hellenica, Books 6 and 7. Anabasis, Books 1-3",1921,true,"",true,"New title: Volume II: Hellenica, Books 5-7",http://www.archive.org/details/xenophon05xenogoog http://books.google.com/books?id=QONotJ9t8o0C
+L090,Xenophon,"Anabasis, Books 4-7. Symposium and Apology",1922,true,"",true,New title: Volume III: Anabasis,http://www.archive.org/details/xenophon04xenogoog http://books.google.com/books?id=vFA8t__AArcC
+L091N,Juvenal,Juvenal and Persius,1928,false,true,true,"",http://www.archive.org/details/juvenalpersiuswi00juveuoft
+L092,Clement of Alexandria,The Exhortation to the Greeks. The Rich Man's Salvation. To the Newly Baptized (fragment),1919,true,"",true,"",http://www.archive.org/details/clementofalexand00clem http://books.google.com/books?id=KxY6AAAAMAAJ
+L093,Pausanias,Description of Greece I: Books 1-2 (Attica and Corinth),1918,true,"",true,"",http://www.archive.org/details/pausaniasgreece01pausuoft http://books.google.com/books?id=Yah2efjM-NQC
+L094,Martial,Epigrams I: Spectacles. Books 1-7,1919,true,"",true,"New title: Epigrams I: Spectacles, Books 1-5",http://www.archive.org/details/martialepigrams01martiala http://books.google.com/books?id=w4ZfAAAAMAAJ
+L095,Martial,Epigrams II: Books 8-14,1920,true,"",true,New title: Epigrams II: Books 6-10,http://www.archive.org/details/martialepigrams02martiala http://books.google.com/books?id=6odfAAAAMAAJ
+L096,Ausonius,Ausonius I: Books 1-17,1919,true,"",true,New title: Volume I: Poems 1-17,http://www.archive.org/details/deciausonius01ausouoft http://books.google.com/books?id=-dlfAAAAMAAJ
+L097N,Cicero,Letters to Atticus III,1961,false,true,true,New title: Volume XXIV: Letters to Atticus 166-281,http://www.archive.org/details/letterstoatticuswins03ciceuoft
+L098,Plutarch,Lives VI: Dion and Brutus. Timoleon and Aemilius Paulus,1918,true,"",true,"",http://www.archive.org/details/plutarchslives06plut http://books.google.com/books?id=32YMAAAAIAAJ
+L099,Plutarch,Lives VII: Demosthenes and Cicero. Alexander and Caesar,1919,true,"",true,"",http://www.archive.org/details/plutarchslives07plut
+L100,Plutarch,Lives VIII: Sertorius and Eumenes. Phocion and Cato the Younger,1919,true,"",true,"",http://www.archive.org/details/plutarchslives08plut http://books.google.com/books?id=0pMMAAAAIAAJ
+L101,Plutarch,Lives IX: Demetrius and Antony. Pyrrhus and Gaius Marius,1920,true,"",true,"",http://www.archive.org/details/plutarchslives09plut http://books.google.com/books?id=5GYMAAAAIAAJ
+L102,Plutarch,Lives X: Agis and Cleomenes. Tiberius and Gaius Gracchus. Philopoemen and Flamininus,1921,true,"",true,"",http://www.archive.org/details/plutarchslives10plut http://books.google.com/books?id=5WYMAAAAIAAJ
+L103,Plutarch,Lives XI: Aratus. Artaxerxes. Galba. Otho. General Index,1926,false,true,true,"",http://www.archive.org/details/plutarchslives11plut
+L104,Homer,Odyssey I: Books 1-12,1945,false,true,true,"",http://www.archive.org/details/odysseyh01homeuoft
+L105,Homer,Odyssey II: Books 13-24,1919,true,"",true,"",http://books.google.com/books?id=_shfAAAAMAAJ
+L106,Aeschines,Speeches,1919,true,"",true,"",http://www.archive.org/details/speechesaeschin00adamgoog http://books.google.com/books?id=WzXz-4u6YXoC
+L107,Procopius,"Procopius III: History of the Wars, Books 5-6.15",1919,true,"",true,"New title: Volume III: History of the Wars, Books 5-6.15. (Gothic War)",http://books.google.com/books?id=ddZfAAAAMAAJ
+L108,Thucydides,History of the Peleponnesian War I: Books 1-2,1956,false,true,true,"",http://www.archive.org/details/thucydideswithen01thucuoft
+L109,Thucydides,History of the Peleponnesian War II: Books 3-4,1920,true,"",true,"",http://books.google.com/books?id=ZBsMAAAAIAAJ
+L110,Thucydides,History of the Peleponnesian War III: Books 5-6,1921,true,"",true,"",http://books.google.com/books?id=pFIMAAAAIAAJ
+L111,Tacitus,Histories I: Books 1-3,1962,false,true,true,New title: Volume II: Histories 1-3,http://www.archive.org/details/histories01taciuoft
+L112,Marcus Cornelius Fronto,Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus I,1919,true,"",true,New title: Correspondence I,http://books.google.com/books?id=BsYXAAAAMAAJ
+L113,Marcus Cornelius Fronto,Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus II,1920,true,"",true,New title: Correspondence II,http://www.archive.org/details/correspondenceof00fron http://books.google.com/books?id=Ao3YulNSO2EC
+L114,Livy,Livy I: Books 1-2,1919,true,"",true,New title: History of Rome I: Books 1-2,http://www.archive.org/details/livy01livy
+L115,Ausonius,Ausonius II: Poems 18-20. Paulinus Pellaeus: Eucharisticus,1921,true,"",true,New title: Volume II: Poems 18-20. Paulinus Pellaeus: Eucharisticus,http://www.archive.org/details/ausonius02auso http://books.google.com/books?id=u6YOlVtvJksC
+L116,Sallust,War with Catiline. War with Jugurtha. Selections from the Histories. Doubtful Works,1921,true,"",true,"",http://books.google.com/books?id=7jgxJVKhaREC
+L117,Herodotus,Herodotus I: Books 1-2,1920,true,"",true,New title: Persian Wars I: Books 1-2,http://www.archive.org/details/herodotus01hero http://books.google.com/books?id=wxsMAAAAIAAJ
+L118,Herodotus,Herodotus II: Books 3-4,1921,true,"",true,New title: Persian Wars II: Books 3-4,http://books.google.com/books?id=bR0MAAAAIAAJ
+L119,Herodotus,Herodotus III: Books 5-7,1922,true,"",true,New title: Persian Wars III: Books 5-7,http://books.google.com/books?id=Qh8MAAAAIAAJ
+L120,Herodotus,Herodotus IV: Books 8-9,1925,false,true,true,New title: Persian Wars IV: Books 8-9,http://www.archive.org/details/herodotus04hero
+L121,Apollodorus,The Library I: Books 1-3.9,1921,true,"",true,"",http://books.google.com/books?id=YKUNAAAAIAAJ
+L122,Apollodorus,The Library II: Book 3.10-end. Epitome,1921,true,"",true,"",http://books.google.com/books?id=QKMNAAAAIAAJ
+L123,Plato,Theaetetus. Sophist,1921,true,"",true,New title: Volume VII: Theaetetus. Sophist,http://www.archive.org/details/theaetetusandsop00plat http://books.google.com/books?id=f18MAAAAIAAJ
+L124N,Quintilian,Quintilian I: Institutio Oratoria Books 1-3,1920,true,"",true,New title: Orator's Education I: Books 1-2,http://www.archive.org/details/institutioorator00quin http://books.google.com/books?id=EpdfAAAAMAAJ
+L125N,Quintilian,Quintilian II: Institutio Oratoria Books 4-6,1921,true,"",true,New title: Orator's Education II: Books 3-5,http://books.google.com/books?id=fpdfAAAAMAAJ
+L126N,Quintilian,Quintilian III: Institutio Oratoria Books 7-9,1922,true,"",true,New title: Orator's Education III: Books 6-8,http://books.google.com/books?id=AkUFAQAAIAAJ
+L127N,Quintilian,Quintilian IV: Institutio Oratoria Books 10-12,1922,true,"",true,New title: Orator's Education IV: Books 9-10,http://books.google.com/books?id=gJhfAAAAMAAJ
+L128,Polybius,Histories I: Books 1-2,1922,true,"",true,"",http://www.archive.org/details/historieswitheng01poly http://books.google.com/books?id=UaENN3WvxI0C
+L129,Callimachus,Callimachus and Lycophron. Aratus,1921,true,"",true,"New title: Volume II: Hymns, Epigrams. Phaenomena. Alexandra",http://www.archive.org/details/callimachuslycop00calluoft http://books.google.com/books?id=bqVfAAAAMAAJ
+L130,Lucian,Lucian III: The Dead Come to Life or The Fisherman. The Double Indictment or Trials by Jury. On Sacrifices. The Ignorant Book Collector. The Dream or Lucian's Career. The Parasite. The Lover of Lies. The Judgement of the Goddesses…,1921,true,"",true,New title: Volume III: The Dead Come to Life or The Fisherman. The Double Indictment or Trials by Jury. On Sacrifices. The Ignorant Book Collector. The Dream or Lucian's Career. The Parasite. The Lover of Lies. The Judgement of the Goddesses…,http://www.archive.org/details/lucianhar03luciuoft http://books.google.com/books?id=4RLYi8psjpcC
+L131,Epictetus,"Discourses, Books 1-2",1925,false,true,true,New title: Discourses I: Books 1-2,http://www.archive.org/details/epictetusthedisc010837mbp
+L132,Menander,Principal Fragments: Arbitrants. Girl from Samos. Girl Who Gets Her Hair Cut Short. Hero. Fragments. Unidentified Comedy,1921,true,"",true,New title: Volume I: Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes,http://books.google.com/books?id=nqC7tszyfD8C
+L133,Livy,Livy II: Books 3-4,1922,true,"",true,New title: History of Rome II: Books 3-4,http://www.archive.org/details/livy02livy
+L134,Philostratus,Lives of the Sophists. Eunapius: Lives of the Philosophers and Sophists,1922,true,"",true,"",http://books.google.com/books?id=NeYNAQAAIAAJ
+L135,Claudian,Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War Against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Paneg,1922,true,"",true,New title: Volume I: Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War Against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria…,http://www.archive.org/details/claudian01clau http://books.google.com/books?id=-xoMAAAAIAAJ
+L136,Claudian,On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina,1922,true,"",true,New title: Volume II: On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina,http://www.archive.org/details/claudian02clau http://books.google.com/books?id=KBsMAAAAIAAJ
+L137,Polybius,Histories II: Books 3-4,1922,true,"",true,"",http://www.archive.org/details/historieswitheng02poly http://books.google.com/books?id=NWdiAAAAMAAJ
+L138,Polybius,Histories III: Books 5-8,1923,false,true,true,"",http://www.archive.org/details/historieswitheng03poly
+L139,"",Scriptores Historiae Augustae I: Hadrian. Aelius. Antoninus Pius. Marcus Aurelius. L. Verus. Avidius Cassius. Commodus. Pertinax. Didius Julianus. Septimius Severus. Pescennius Niger. Clodius Albinus,1922,true,"",true,New title: Historia Augusta I: Hadrian. Aelius. Antoninus Pius. Marcus Aurelius. L. Verus. Avidius Cassius. Commodus. Pertinax. Didius Julianus. Septimius Severus. Pescennius Niger. Clodius Albinus,http://www.archive.org/details/scriptoreshistor01camb http://books.google.com/books?id=MhdvmnB7wVYC
+L140,"",Scriptores Historiae Augustae II: Caracalla. Geta. Opellius Macrinus. Diadumenianus. Elagabalus. Severus Alexander. The Two Maximini. The Three Gordians. Maximus and Balbinus,1924,false,true,true,New title: Historia Augusta II: Caracalla. Geta. Opellius Macrinus. Diadumenianus. Elagabalus. Severus Alexander. The Two Maximini. The Three Gordians. Maximus and Balbinus,http://www.archive.org/details/scriptoreshistor02camb
+L141,Cicero,Volume XVIII: Tusculan Disputations,,,"",false,"",""
+L142,"",Lyra Graeca I: Terpander. Alcman. Sappho. Alcaeus,1932,false,true,true,New title: Greek Lyric I: Sappho and Alcaeus,http://www.archive.org/details/lyragraecabeing00edmogoog
+L143,"",Lyra Graeca II: Stesichorus. Ibycus. Anacreon. Simonides,1924,false,true,true,"New title: Greek Lyric II: Anacreon, Anacreontea, Choral Lyric from Olympus to Alcman",http://www.archive.org/details/lyragraecabeingr02edmouoft
+L144,"",Lyra Graeca III: Corinna. Bacchylides. Timotheus. The Anonymous Fragments. The Folk Songs. Scolia. An Account of Greek Lyric Poetry,1927,false,true,true,New title: Greek Lyric V: The New School of Poetry and Anonymous Songs and Hymns,http://www.archive.org/details/lyragraecabeingr03edmouoft
+L145,Aeschylus,Suppliant Maidens. Persians. Prometheus. Seven Against Thebes,1922,true,"",true,"",http://books.google.com/books?id=_1OhrWL4ar8C
+L146,Aeschylus,Agamemnon. Libation-Bearers. Eumenides. Fragments,1936,false,true,true,"",http://www.archive.org/details/aeschyluswitheng02aescuoft
+L147,Hippocrates,"Hippocrates I: Ancient Medicine. Airs, Waters, Places. Epidemics 1 & 3. The Oath. Precepts. Nutriment",1957,false,true,true,"New title: Volume I: Ancient Medicine. Airs, Waters, Places. Epidemics 1 & 3. The Oath. Precepts. Nutriment",http://www.archive.org/details/hippocrates01hippuoft
+L148,Hippocrates,Hippocrates II: Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Physician (Ch. 1). Dentition,1959,false,true,true,New title: Volume II: Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Physician (Ch. 1). Dentition,http://www.archive.org/details/hippocrates02hippuoft
+L149,Hippocrates,Hippocrates III: On Wounds in the Head. In the Surgery. On Fractures. On Joints. Mochlicon,1959,false,true,true,New title: Volume III: On Wounds in the Head. In the Surgery. On Fractures. On Joints. Mochlicon,http://www.archive.org/details/hippocrates03hippuoft
+L150,Hippocrates,Hippocrates IV: Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe,1959,false,true,true,New title: Volume IV: Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe,http://www.archive.org/details/hippocrates04hippuoft
+L151,Ovid,Tristia. Ex Ponto,1924,false,true,true,New title: Volume VI: Tristia. Ex Ponto,http://www.archive.org/details/ovidtristiaexpon011949mbp
+L152,Velleius Paterculus,Compendium of Roman History. Res Gestae Divi Augusti,1961,false,true,true,"",http://www.archive.org/details/compendiumofroma00velluoft
+L153,Eusebius,Ecclesiastical History I: Books 1-5,1926,false,true,true,New title: Volume I: Books 1-5,http://www.archive.org/details/ecclesiasticalhi01euseuoft
+L154,Cicero,Volume XX: On Old Age. On Friendship. On Divination,,,"",false,"",""
+L155,Demosthenes,"Volume II: De Corona, De Falsa Legatione (18-19)",,,"",false,"",""
+L156,Aeneas Tacticus,"Aeneas Tacitus, Asclepiodotus, and Onasander",,,"",false,"",""
+L157,Julian,Julian III: Letters. Epigrams. Against the Galilaeans. Fragments,1923,false,true,true,New title: Volume III: Letters. Epigrams. Against the Galilaeans. Fragments,http://www.archive.org/details/workswithenglish03juliuoft
+L158,Cicero,Volume XI: Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Cn. Plancio,,,"",false,"",""
+L159,Polybius,Histories IV: Books 9-15,,,"",true,"",""
+L160,Polybius,Histories V: Books 16-27,,,"",true,"",""
+L161,Polybius,Histories VI: Books 28-39,1968,false,"",true,"",http://www.archive.org/details/historieswitheng06poly
+L162,Lucian,Lucian IV: Anacharsis or Athletics. Menippus or The Descent into Hades. On Funerals. A Professor of Public Speaking. Alexander the False Prophet. Essays in Portraiture. Essays in Portraiture Defended. The Goddesse of Surrye,1961,false,true,true,New title: Volume IV: Anacharsis or Athletics. Menippus or The Descent into Hades. On Funerals. A Professor of Public Speaking. Alexander the False Prophet. Essays in Portraiture. Essays in Portraiture Defended. The Goddesse of Surrye,http://www.archive.org/details/lucianhar04luciuoft
+L163,Plautus,Plautus III: The Merchant. The Braggart Warrior. The Haunted House. The Persian,1924,false,true,true,New title: Volume III: The Merchant. The Braggart Warrior. The Haunted House. The Persian,http://www.archive.org/details/plautuswithengli03plauuoft
+L164,Plato,Volume VIII: Statesman. Philebus. Ion,,,"",false,"",""
+L165,Plato,Laches. Protagoras. Meno. Euthydemus,1952,false,true,true,New title: Volume II: Laches. Protagoras. Meno. Euthydemus,http://www.archive.org/details/platowithenglish04platuoft
+L166,Plato,Volume III: Lysis. Symposium. Gorgias,,,"",false,"",""
+L167,Plato,Volume IV: Cratylus. Parmenides. Greater Hippias. Lesser Hippias,,,"",false,"",""
+L168,Xenophon,Volume IV: Memorabilia and Oeconomicus. Symposium and Apologia,,,"",false,"",""
+L169,Thucydides,http://www.archive.org/details/historyofpelopon04thucuoft,1958,false,true,true,New title: History of the Peleponnesian War IV: Books 7-8. General Index,http://www.archive.org/details/historyofpelopon04thucuoft
+L170N,Homer,Iliad I: Books 1-12,1928,false,true,true,"",http://www.archive.org/details/HomersIliadloeb1
+L171N,Homer,Iliad II: Books 13-24,,,"",false,"",""
+L172,Livy,History of Rome III: Books 5-7,,,"",false,"",""
+L173,Procopius,"Volume IV: History of the Wars, Books 6.16-7.35. (Gothic War)",,,"",false,"",""
+L174,Frontinus,Stratagems. Aqueducts of Rome,1925,false,true,true,"",http://www.archive.org/details/stratagemsaquedu00fronuoft
+L175,Dio Cassius,Dio's Roman History VII: Books 56-60,1960,false,true,true,"",http://www.archive.org/details/diosromanhistory07cassuoft
+L176,Dio Cassius,Dio's Roman History VIII: Books 61-70,1925,false,true,true,"",http://www.archive.org/details/diosromanhistory08cassuoft
+L177,Dio Cassius,Dio's Roman History IX: Books 71-80,1960,false,true,true,"",http://www.archive.org/details/diosromanhistory09cassuoft
+L178,Aristophanes,Aristophanes I: Acharnians. Knights. Clouds. Wasps,1930,false,true,true,New title: Volume I: Acharnians. Knights,http://www.archive.org/details/aristophaneswith01arisuoft
+L179N,Aristophanes,Aristophanes II: The Peace. The Birds. The Frogs,1927,false,"",false,New title: Volume III: Birds. Lysistrata. Women at the Thesmophoria,http://www.archive.org/details/aristophanesvolu007880mbp
+L180,Aristophanes,Aristophanes III: Lysistrata. Thesmophoriazusae. Ecclesiazusae. Plutus,1924,false,"",false,New title: Lysistrata. Thesmophoriazusae. Ecclesiazusae. Plutus,http://www.archive.org/details/AristophanesVolIii
+L180N,Aristophanes,Volume IV: Frogs. Assemblywomen. Wealth,,,"",false,"",""
+L181,Lucretius,On the Nature of Things,,,"",false,"",""
+L182,Strabo,Geography III: Books 6-7,,,"",false,"",""
+L183,Xenophon,Scripta Minora: Hiero. Agesilaus. Constitution of the Lacedaemonians. Ways and Means. Cavalry Commander. Art of Horsemanship. On Hunting. Constitution of the Athenians,1946,false,true,true,New title: Volume VII: Hiero. Agesilaus. Constitution of the Lacedaemonians. Ways and Means. Cavalry Commander. Art of Horsemanship. On Hunting. Constitution of the Athenians,http://www.archive.org/details/scriptaminorawit00xenouoft
+L184,Diogenes Laertius,Volume I: Books 1-5,,,"",true,"",""
+L185,Diogenes Laertius,Lives of Eminent Philosophers II: Books 6-10,1925,false,true,true,New title: Volume II: Books 6-10,http://www.archive.org/details/livesofeminentph02dioguoft
+L186,Josephus,Josephus I: The Life. Against Apion,1926,false,true,true,New title: Volume I: The Life. Against Apion,http://www.archive.org/details/josephuswithengl01joseuoft
+L187,Plato,Laws I: Books 1-6,1961,false,true,true,"New title: Volume X: Laws, Books 1-6",http://www.archive.org/details/platowithenglish91platuoft
+L188,Pausanias,"Description of Greece II: Books 3-5 (Laconia, Messenia, Elis 1)",1926,false,true,true,"",http://www.archive.org/details/pausaniasgreece02pausuoft
+L189,Cicero,Philippics,1957,false,true,true,New title: Volume XV: Philippics,http://www.archive.org/details/philippics00ciceuoft
+L190,Basil,Basil I: Letters 1-58,1926,false,true,true,New title: Volume I: Letters 1-58,http://www.archive.org/details/letterswithengli01basiuoft
+L191,Livy,Livy IV: Books 8-10,1926,false,true,true,New title: History of Rome IV: Books 8-10,http://www.archive.org/details/livywithenglisht04livyuoft
+L192,Plato,Laws II: Books 7-12,1926,false,true,true,"New title: Volume XI: Laws, Books 7-12",http://www.archive.org/details/platowithenglish92platuoft
+L193,Aristotle,"The ""Art"" of Rhetoric",1926,false,true,true,"New title: Volume XXII: The ""Art"" of Rhetoric",http://www.archive.org/details/artofrhetoric00arisuoft
+L194,Horace,Satires. Epistles. Ars Poetica,1942,false,true,true,New title: Volume II: Satires. Epistles. The Art of Poetry,http://www.archive.org/details/satiresepistlesa00horauoft
+L195,Aulus Gellius,Attic Nights I: Books 1-5,,,"",false,"",""
+L196,Strabo,Geography IV: Books 8-9,,,"",false,"",""
+L197,Plutarch,Moralia I: The Education of Children. How the Young Man Should Study Poetry. On Listening to Lectures. How to Tell a Flatterer from a Friend. How a Man May Become Aware of His Progress in Virtue,,,"",false,"",""
+L198,Cicero,Volume IX: Pro Lege Manilia. Pro Caecina. Pro Cluentio. Pro Rabirio Perduellionis Reo,,,"",false,"",""
+L199,Aristotle,Volume XXIII: Poetics. On the Sublime. On Style,,,"",false,"",""
+L200,Aulus Gellius,Attic Nights II: Books 6-13,,,"",false,"",""
+L201,Plato,Charmides. Alcibiades 1 & 2. Hipparchus. The Lovers. Theages. Minos. Epinomis,1964,false,"",true,New title: Volume XII: Charmides. Alcibiades 1 & 2. Hipparchus. The Lovers. Theages. Minos. Epinomis,http://www.archive.org/details/charmidesalcibia00platuoft
+L202,Isaeus,Isaeus,,,"",false,"",""
+L203,Josephus,Josephus II: The Jewish War Books 1-3,1956,false,true,true,New title: Volume II: The Jewish War Books 1-2,http://www.archive.org/details/josephuswithengl02joseuoft
+L204,Athenaeus,The Deipnosophists I: Books 1-3.106e,,,"",false,"",""
+L205N,Cicero,Letters to His Friends I: Books 1-6,1958,false,true,true,New title: Volume XXV: Letters to Friends 1-113,http://www.archive.org/details/letterstohisfrie01ciceuoft
+L206N,Statius,"Statius I: Silvae. Thebaid, Books 1-4",1928,false,true,true,New title: Volume I: Silvae,http://www.archive.org/details/statiusstat01statuoft
+L207N,Statius,"Statius II: Thebaid, Books 5-12. Achilleid",1928,false,true,true,"New title: Volume II: Thebaid, Books 1-7",http://www.archive.org/details/statiuswithengli02statuoft
+L208,Athenaeus,The Deipnosophists II: Books 3.106e-5,,,"",false,"",""
+L209,Isocrates,Volume I: To Demonicus. To Nicocles. Nicocles or the Cyprians. Panegyricus. To Philip. Archidamus,,,"",false,"",""
+L210,Josephus,Josephus III: The Jewish War Books 4-7,1961,false,true,true,New title: Volume IV: The Jewish War Books 5-7,http://www.archive.org/details/josephuswithengl03joseuoft
+L211,Strabo,Geography V: Books 10-12,1961,false,true,true,"",http://www.archive.org/details/geographyofstrab05strauoft
+L212,Aulus Gellius,Attic Nights III: Books 14-20,,,"",false,"",""
+L213,Cicero,Volume XVI: On the Republic. On the Laws,,,"",false,"",""
+L214,Seneca,Moral Essays I: De Providentia. De Constantia. De Ira. De Clementia,1928,false,true,true,New title: Volume I: Moral Essays: De Providentia. De Constantia. De Ira. De Clementia,http://www.archive.org/details/moralessayswithe01seneuoft
+L215,Basil,Basil II: Letters 59-185,1928,false,true,true,New title: Volume II: Letters 59-185,http://www.archive.org/details/letterswithengli02basiuoft
+L216N,Cicero,Letters to His Friends II: Books 7-12,1952,false,true,true,New title: Volume XXVI: Letters to Friends 114-280,http://www.archive.org/details/letterstohisfrie02ciceuoft
+L217,Procopius,"Volume V: History of the Wars, Books 7.36-8. (Gothic War)",,,"",false,"",""
+L218,Epictetus,"Discourses, Books 3-4. Fragments. The Encheiridion",1928,false,true,true,New title: Discourses II: Books 3-4. Fragments. The Encheiridion,http://www.archive.org/details/epictetusthedisc010384mbp
+L219,Oppian,Oppian. Colluthus. Tryphiodorus,1928,false,true,true,New title: Oppian,http://www.archive.org/details/oppiancolluthust00oppiuoft
+L220,Lucan,The Civil War (Pharsalia),1962,false,true,true,"",http://www.archive.org/details/lucancivilwarboo00lucauoft
+L221,Cicero,Volume VII: The Verrine Orations I,,,"",false,"",""
+L222,Plutarch,Moralia II: How to Profit by One's Enemies. On Having Many Friends. Chance. Virtue and Vice. Letter of Condolence to Apollonius. Advice About Keeping Well. Advice to Bride and Groom. The Dinner of the Seven Wise Men. Superstition,,,"",true,"",http://www.archive.org/details/moraliainfifteen02plutuoft
+L223,Strabo,Geography VI: Books 13-14,1960,false,true,true,"",http://www.archive.org/details/geographyofstrab06strauoft
+L224,Athenaeus,The Deipnosophists III: Books 6-7,,,"",false,"",""
+L225N,Theophrastus,Characters of Theophrastus,1929,false,true,true,"New title: Theophrastus, Characters. Herodas, Mimes. Sophron and Other Mime Fragments",http://www.archive.org/details/charactersofthe00theouoft
+L226,Philo,Volume I: On the Creation. Allegorical Interpretation of Genesis 2 and 3,,,"",true,"",""
+L227,Philo,Volume II: On the Cherubim. The Sacrifices of Abel and Cain. The Worse Attacks the Better. On the Posterity and Exile of Cain. On the Giants,,,"",false,"",""
+L228,Aristotle,Volume IV: The Physics Books 1-4,,,"",false,"",""
+L229,Isocrates,Isocrates II: On the Peace. Areopagiticus. Against the Sophists. Antidosis. Panathenaicus,1929,false,true,true,New title: Volume II: On the Peace. Areopagiticus. Against the Sophists. Antidosis. Panathenaicus,http://www.archive.org/details/isocrateswitheng02isocuoft
+L230N,Cicero,Letters to His Friends III: Books 13-16. To His Brother Quintus. To Brutus,1960,false,true,true,New title: Volume XXVII: Letters to Friends 281-435,http://www.archive.org/details/letterstohisfrie03ciceuoft
+L231,Florus,Epitome of Roman History,,,"",false,"",""
+L232,Ovid,Volume II: Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation,,,"",false,"",""
+L233,Livy,History of Rome V: Books 21-22,,,"",false,"",""
+L234,Plato,Volume IX: Timaeus. Critias. Cleitophon. Menexenus. Epistles,,,"",false,"",""
+L235,Athenaeus,The Deipnosophists IV: Books 8-10,,,"",false,"",""
+L236,Arrian,"Anabasis Alexandri, Books 1-4",1967,false,"",true,"New title: Anabasis of Alexander, Books 1-4",http://www.archive.org/details/arrianar01arriuoft
+L237,Plato,Republic I: Books 1-5,1937,false,true,true,"New title: Volume V: The Republic, Books 1-5",http://www.archive.org/details/republicshorey01platuoft
+L238,Demosthenes,Volume I: Olynthiacs 1-3. Philippic 1. On the Peace. Philippic 2. On Halonnesus. On the Chersonese. Philippics 3 and 4. Answer to Philip's Letter. Philip's Letter. On Organization. On the Navy-boards. For the Liberty of the Rhodians…,,,"",false,"",""
+L239,Augustine,Select Letters,1930,false,true,true,"",http://www.archive.org/details/selectletters00auguuoft
+L240,Cicero,Volume VI: Pro Quinctio. Pro Roscio Amerino. Pro Roscio Comoedo. The Three Speeches on the Agrarian Law Against Rullus,,,"",false,"",""
+L241,Strabo,Geography VII: Books 15-16,1930,false,true,true,"",http://www.archive.org/details/geographyofstrab07strauoft
+L242,Josephus,Josephus IV: Jewish Antiquities Books 1-4,1961,false,true,true,New title: Volume V: Jewish Antiquities Books 1-3,http://www.archive.org/details/josephuswithengl04joseuoft
+L243,Basil,Volume III: Letters 186-248,,,"",false,"",""
+L244,Lysias,Lysias,1967,false,"",true,"",http://www.archive.org/details/lysiaslamb00lysiuoft
+L245,Plutarch,Moralia III: Sayings of Kings and Commanders. Sayings of Romans. Sayings of Spartans. The Ancient Customs of the Spartans. Sayings of Spartan Women. Bravery of Women,,,"",true,"",http://www.archive.org/details/moraliainfifteen03plutuoft
+L246,Bede,Opera Historica I: Books 1-3,1962,false,true,true,"New title: Ecclesiastical History, Books 1-3",http://www.archive.org/details/operahistorica01bedeuoft
+L247,Philo,Volume III: On the Unchangeableness of God. On Husbandry. Concerning Noah's Work As a Planter. On Drunkenness. On Sobriet,,,"",true,"",""
+L248,Bede,Opera Historica II: Books 4-5. Lives of the Abbots. Letter to Egbert,1930,false,true,true,"New title: Ecclesiastical History, Books 4-5. Lives of the Abbots. Letter to Egbert",http://www.archive.org/details/operahistoric02bedeuoft
+L249,Tacitus,Histories II: 4-5. Annals 1-3,1962,false,true,true,New title: Volume III: Histories 4-5. Annals 1-3,http://www.archive.org/details/histories02taciuoft
+L250,Tertullian,Apology and De Spectaculis. Octavius,1977,false,"",true,"",http://www.archive.org/details/apologydespectac00tertuoft
+L251,Vitruvius,Vitruvius on Architecture I: Books 1-5,1931,false,"",false,New title: On Architecture I: Books 1-5,http://www.archive.org/details/vitruviusonarchi006859mbp
+L252,Cicero,Volume XIV: Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro,,,"",false,"",""
+L253,Ovid,Fasti,1959,false,true,true,New title: Volume V: Fasti,http://www.archive.org/details/ovidsfasti00oviduoft
+L254,Seneca,Volume II: Moral Essays: De Consolatione ad Marciam. De Vita Beata. De Otio. De Tranquillitate Animi. De Brevitate Vitae. De Consolatione ad Polybium. De Consolatione ad Helviam,,,"",false,"",""
+L255,Aristotle,Volume V: The Physics Books 5-8,,,"",false,"",""
+L256,Philostratus the Elder,Imagines. Callistatus: Descriptions,1931,false,true,true,"New title: Philostratus the Elder, Imagines. Philostratus the Younger, Imagines. Callistratus, Descriptions",http://www.archive.org/details/imagines00philuoft
+L257,Dio Chrysostom,Volume I: Discourses 1-11,,,"",false,"",""
+L258N,Tyrtaeus,Greek Elegiac Poetry,,,"",false,"",""
+L259N,"",Greek Iambic Poetry:  From the Seventh to the Fifth Centuries BC,,,"",false,"",""
+L260,Plautus,Plautus IV: The Little Carthaginian. Pseudolus. The Rope,1980,false,"",true,New title: Volume IV: The Little Carthaginian. Pseudolus. The Rope,http://www.archive.org/details/plautuswithengli04plauuoft
+L261,Philo,Volume IV: On the Confusion of Tongues. On the Migration of Abraham. Who Is the Heir of Divine Things? On Mating with the Preliminary Studies,,,"",true,"",""
+L262,Jerome,Select Letters,1933,false,true,true,"",http://www.archive.org/details/selectlettersofs00jerouoft
+L263,"","Scriptores Historiae Augustae III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian",1932,false,true,true,"New title: Historia Augusta III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian",http://www.archive.org/details/scriptoreshistor03camb http://books.google.com/books?id=teHTdGpmuJIC
+L264,Aristotle,Politics,1959,false,true,true,New title: Volume XXI: Politics,http://www.archive.org/details/politicsrackh00arisuoft
+L265,Eusebius,Ecclesiastical History II: Books 6-10,1942,false,true,true,New title: Volume II: Books 6-10,http://www.archive.org/details/ecclesiasticalhi02euseuoft
+L266,"","Papyri I: Private Documents (Agreements, Receipts, Wills, Letters, Memoranda, Accounts and Lists, and Others)",,,"",false,"",""
+L267,Strabo,Geography VIII: Book 17 and General Index,1967,false,"",true,"",http://www.archive.org/details/geographyofstrab08strauoft
+L268,Cicero,De Natura Deorum. Academica,1967,false,"",true,New title: Volume XIX: On the Nature of the Gods. Academics,http://www.archive.org/details/denaturadeorumac00ciceuoft
+L269,Arrian,"Anabasis of Alexander, Books 5-7. Indica",,,"",false,"",""
+L270,Basil,Basil IV: Letters 249-368. Address to Young Men on Greek Literature,1934,false,true,true,New title: Volume IV: Letters 249-368. Address to Young Men on Greek Literature,http://www.archive.org/details/letterswithengli04basiuoft
+L271,Aristotle,Volume XVII: Metaphysics Books 1-9,,,"",false,"",""
+L272,Pausanias,"Description of Greece III: Books 6-8.21 (Elis 2, Achaia, Arcadia)",,,"",false,"",""
+L273,Sextus Empiricus,Volume I: Outlines of Pyrrhonism,,,"",false,"",""
+L274,Athenaeus,The Deipnosophists V: Books 11-12,,,"",false,"",""
+L275,Philo,Volume V: On Flight and Finding. On the Change of Names. On Dreams,,,"",true,"",""
+L276,Plato,Republic II: Books 6-10,1942,false,true,true,"New title: Volume VI: The Republic, Books 6-10",http://www.archive.org/details/republicshorey02platuoft
+L277,Silius Italicus,Punica I: Books 1-8,,,"",false,"",""
+L278,Silius Italicus,Punica II: Books 9-17,,,"",false,"",""
+L279,Diodorus Siculus,Library of History I: Books 1-2.34,,,"",false,"",""
+L280,Vitruvius,On Architecture II: Books 6-10,,,"",false,"",""
+L281,Josephus,Josephus V: Jewish Antiquities Books 5-8,1950,false,true,true,New title: Volume VII: Jewish Antiquities Books 7-8,http://www.archive.org/details/josephuswithengl05joseuoft
+L282,"","Papyri II: Public Documents (Codes and Regulations, Edicts and Orders, Public Announcements, Reports of Meetings, Judicial Business, Petitions and Applications, Declarations to Officials, Contracts, Receipts, Accounts and Lists, Correspondence, and Other)",,,"",false,"",""
+L283,Cato,On Agriculture,,,"",false,"",""
+L284,Minor Latin Poets,Minor Latin Poets,1934,false,true,true,New title: Minor Latin Poets I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna,http://www.archive.org/details/minorlatinpoetsw00duffuoft
+L285,Aristotle,Athenian Constitution. Eudemian Ethics. Virtues and Vices,1935,false,true,true,New title: Volume XX: Athenian Constitution. Eudemian Ethics. Virtues and Vices,http://www.archive.org/details/athenianconstitu00arisuoft
+L286,Valerius Flaccus,Argonautica,,,"",false,"",""
+L287,Aristotle,Volume XVIII: Metaphysics Books 10-14,,,"",false,"",""
+L288,Aristotle,Volume VIII: On the Soul. Parva Naturalia. On Breath,,,"",false,"",""
+L289,Philo,Volume VI: On Abraham. On Joseph. On Moses,,,"",true,"",""
+L290,Procopius,Volume VI: The Anecdota or Secret History,,,"",false,"",""
+L291,Sextus Empiricus,Volume II: Against the Logicians,,,"",false,"",""
+L292,Celsus,On Medicine I: Books 1-4,,,"",false,"",""
+L293,Cicero,Volume VIII: The Verrine Orations II,,,"",false,"",""
+L294,"",Remains of Old Latin I: Ennius. Caecilius,,,"",false,"",""
+L295,Livy,History of Rome IX: Books 31-34,,,"",false,"",""
+L296,Sidonius,"Volume I: Poems. Letters, Books 1-2",,,"",true,"",""
+L297,Pausanias,"Description of Greece IV: Books 8.22-10 (Arcadia, Boeotia, Phocis and Ozolian Locri)",,,"",false,"",""
+L298,Pausanias,"Description of Greece V: Maps, Plans, Ilustrations and General Index",,,"",false,"",""
+L299,Demosthenes,Volume III: Against Meidias. Against Androtion. Against Aristocrates. Against Timocrates. Against Aristogeiton 1 and 2 (21-26),,,"",false,"",""
+L300,Ammianus Marcellinus,Roman History I: Books 14-19,1935,false,true,true,"",http://www.archive.org/details/ammianusmarcelli01ammiuoft
+L301,Livy,History of Rome X: Books 35-37,,,"",false,"",""
+L302,Lucian,Lucian V: The Passing of Peregrinus. The Runaways. Toxaris or Friendship. The Dance. Lexiphanes. The Eunuch. Astrology. The Mistaken Critic. The Parliament of the Gods. The Tyrannicide. Disowned,1962,false,true,true,New title: Volume V: The Passing of Peregrinus. The Runaways. Toxaris or Friendship. The Dance. Lexiphanes. The Eunuch. Astrology. The Mistaken Critic. The Parliament of the Gods. The Tyrannicide. Disowned,http://www.archive.org/details/lucianhar05luciuoft
+L303,Diodorus Siculus,Diodorus Siculus II: Books 2.35-4.58,1967,false,"",true,New title: Library of History II: Books 2.35-4.58,http://www.archive.org/details/diodorusofsicily02dioduoft
+L304,Celsus,De Medicina II: Books 5-6,1961,false,true,true,New title: On Medicine II: Books 5-6,http://www.archive.org/details/demedicina02celsuoft
+L305,Plutarch,Moralia IV: Roman Questions. Greek Questions. Greek and Roman Parallel Stories. On the Fortune of the Romans. On the Fortune or the Virtue of Alexander. Were the Athenians More Famous in War or in Wisdom?,,,"",true,"",http://www.archive.org/details/moraliainfifteen04plutuoft
+L306,Plutarch,Moralia V: Isis and Osiris. The E at Delphi. The Oracles at Delphi No Longer Given in Verse. The Obsolescence of Oracles,,,"",true,"",""
+L307,Aristotle,Minor Works,1960,false,true,true,New title: Volume XIV: Minor Works,http://www.archive.org/details/minorworks00arisuoft
+L308,Antiphon,Minor Attic Orators,,,"",false,"",""
+L309,Cicero,Volume XII: Pro Sestio. In Vatinium,,,"",false,"",""
+L310,Seneca,Volume III: Moral Essays: De Beneficiis,,,"",false,"",""
+L311,Sextus Empiricus,Volume III: Against the Physicists. Against the Ethicists,,,"",false,"",""
+L312,Tacitus,"Volume IV: Annals 4-6, 11-12",,,"",false,"",""
+L313,Livy,Livy XI: Books 38-39,1936,false,true,true,New title: History of Rome XI: Books 38-39,http://www.archive.org/details/livywithenglisht11livyuoft
+L314,"",Remains of Old Latin II: Livius Andronicus. Naevius. Pacuvius. Accius,,,"",false,"",""
+L315,Ammianus Marcellinus,Roman History II: Books 20-26,,,"",false,"",""
+L316,Aristotle,Volume XV: Problems Books 1-21,,,"",false,"",""
+L317,Aristotle,Problems II: Books 22-38,1957,false,true,true,New title: Volume XVI: Problems Books 22-38,http://www.archive.org/details/problems02arisuoft
+L318,Demosthenes,Volume IV: Orations (27-40),,,"",false,"",""
+L319,Dionysius of Halicarnassus,Roman Antiquities I: Books 1-2,,,"",false,"",""
+L320,Philo,"Volume VII: On the Decalogue. On the Special Laws, Books 1-3",,,"",true,"",""
+L321,Plutarch,"Moralia X: Love Stories. That a Philosopher Ought to Converse Especially With Men in Power. To an Uneducated Ruler. Whether an Old Man Should Engage in Public Affairs. Precepts of Statecraft. On Monarchy, Democracy, and Oligarchy",,,"",true,"",http://www.archive.org/details/moraliainfifteen10plutuoft
+L322,Tacitus,Volume V: Annals 13-16,,,"",false,"",""
+L323,Aristotle,Parts of Animals. Movement of Animals. Progression of Animals,1961,false,true,true,New title: Volume XII: Parts of Animals. Movement of Animals. Progression of Animals,http://www.archive.org/details/partsofanimals00aris
+L324,Cicero,Volume X: In Catilinam 1-4. Pro Murena. Pro Sulla. Pro Flacco,,,"",false,"",""
+L325,Aristotle,Volume I: Categories. On Interpretation. Prior Analytics,,,"",false,"",""
+L326,Josephus,Josephus VI: Jewish Antiquities Books 9-11,1958,false,true,true,New title: Volume VIII: Jewish Antiquities Books 9-11,http://www.archive.org/details/josephuswithengl06joseuoft
+L327,Athenaeus,The Deipnosophists VI: Books 13-14.653b,,,"",false,"",""
+L328,Plautus,Plautus V: Stichus. Trinummus (Three Bob Day). Truculentus. The Tale of a Travelling Bag. Fragments,1952,false,true,true,New title: Volume V: Stichus. Trinummus (Three Bob Day). Truculentus. The Tale of a Travelling Bag. Fragments,http://www.archive.org/details/plautuswithengli05plauuoft
+L329,"",Remains of Old Latin III: Lucilius. The Twelve Tables,,,"",false,"",""
+L330,Pliny,Natural History I: Books 1-2,1967,false,"",true,"",http://www.archive.org/details/naturalhistory01plinuoft
+L331,Ammianus Marcellinus,Roman History III: Books 27-31. Excerpta Valesiana,,,"",false,"",""
+L332,Livy,History of Rome XII: Books 40-42,,,"",false,"",""
+L333,Varro,On the Latin Language I: Books 5-7,1938,false,true,true,"",http://www.archive.org/details/onlatinlanguage01varruoft
+L334,Varro,On the Latin Language II: Books 8-10. Fragments,1938,false,true,true,"",http://www.archive.org/details/onlatinlanguage02varruoft
+L335,"",Greek Mathematical Works I: From Thales to Euclid,,,"",false,"",""
+L336,Celsus,De Medicina III: Books 7-8,1961,false,true,true,New title: On Medicine III: Books 7-8,http://www.archive.org/details/demedicina03celsuoft
+L337,Plutarch,Moralia VI: Can Virtue Be Taught? On Moral Virtue. On the Control of Anger. On Tranquility of Mind. On Brotherly Love. On Affection for Offspring. Whether Vice Be Sufficient to Cause Unhappiness…,,,"",true,"",http://www.archive.org/details/moraliainfifteen06plutuoft
+L338,Aristotle,Volume VI: On the Heavens,,,"",false,"",""
+L339,Dio Chrysostom,Volume II: Discourses 12-30,,,"",false,"",""
+L340,Diodorus Siculus,Library of History III: Books 4.59-8,,,"",false,"",""
+L341,Philo,"Volume VIII: On the Special Laws, Book 4. On the Virtues. On Rewards and Punishments",,,"",true,"",""
+L342,Cicero,Volume V: Brutus. Orator,,,"",false,"",""
+L343,Procopius,Volume VII: On Buildings. General Index,,,"",false,"",""
+L344,Nonnos,Volume I: Books 1-15,,,"",false,"",""
+L345,Athenaeus,The Deipnosophists VII: Books 14.653b-15,,,"",false,"",""
+L346,Demosthenes,Volume V: Private Orations (41-49),,,"",false,"",""
+L347,Dionysius of Halicarnassus,Roman Antiquities II: Books 3-4,,,"",false,"",""
+L348,Cicero,Volume III: On the Orator Books 1-2,,,"",false,"",""
+L349,Cicero,Volume IV: On the Orator: Book 3. On Fate. Stoic Paradoxes. On the Divisions of Oratory,,,"",false,"",""
+L350,Manetho,History of Egypt and Other Works,1964,false,"",true,"",http://www.archive.org/details/manethowithengli00maneuoft
+L351,Demosthenes,Volume VI: Private Orations (50-58). In Neaeram (59),,,"",false,"",""
+L352,Pliny,Natural History II: Books 3-7,1961,false,true,true,"",http://www.archive.org/details/naturalhistory02plinuoft
+L353,Pliny,Natural History III: Books 8-11,1940,false,true,true,"",http://www.archive.org/details/plinynaturalhist005560mbp
+L354,Nonnos,Volume II: Books 16-35,,,"",true,"",""
+L355,Livy,Livy VI: Books 23-25,1940,false,true,true,New title: History of Rome VI: Books 23-25,http://www.archive.org/details/livywithenglisht06livyuoft
+L356,Nonnos,Volume III: Books 36-48,,,"",true,"",""
+L357,Dionysius of Halicarnassus,Roman Antiquities III: Books 5-6.48,,,"",false,"",""
+L358,Dio Chrysostom,Dio Chrysostom III: Discourses 31-36,1940,false,true,true,New title: Volume III: Discourses 31-36,http://www.archive.org/details/diochrysostomwit03diocuoft
+L359,"",Remains of Old Latin IV: Archaic Inscriptions,,,"",false,"",""
+L360,"",Greek Literary Papyri I,1942,false,true,true,New title: Papyri III: Poetry,http://www.archive.org/details/greekliterarypap01pageuoft
+L361,Columella,On Agriculture I: Books 1-4,,,"",false,"",""
+L362,"",Greek Mathematical Works II: From Aristarchus to Pappus,,,"",false,"",""
+L363,Philo,Volume IX: Every Good Man is Free. On the Contemplative Life. On the Eternity of the World. Against Flaccus. Apology for the Jews. On Providence,,,"",true,"",""
+L364,Dionysius of Halicarnassus,Roman Antiquities IV: Books 6.49-7,,,"",false,"",""
+L365,Josephus,Josephus VII: Jewish Antiquities Books 12-14,1957,false,true,true,New title: Volume IX: Jewish Antiquities Books 12-13,http://www.archive.org/details/josephuswithengl07joseuoft
+L366,Aristotle,Volume XIII: Generation of Animals,,,"",false,"",""
+L367,Livy,Livy VII: Books 26-27,1943,false,true,true,New title: History of Rome VII: Books 26-27,http://www.archive.org/details/livywithenglisht07livyuoft
+L368,Quintus Curtius,History of Alexander I: Books 1-5,,,"",false,"",""
+L369,Quintus Curtius,History of Alexander II: Books 6-10,,,"",false,"",""
+L370,Pliny,Natural History IV: Books 12-16,1960,false,true,true,"",http://www.archive.org/details/naturalhistory04plinuoft
+L371,Pliny,Natural History V: Books 17-19,1961,false,true,true,"",http://www.archive.org/details/naturalhistory05plinuoft
+L372,Dionysius of Halicarnassus,Roman Antiquities V: Books 8-9.24,,,"",false,"",""
+L373,Isocrates,Isocrates III: Evagoras. Helen. Busiris. Plataicus. Concerning the Team of Horses. Trapeziticus. Against Callimachus. Aegineticus. Against Lochites. Against Euthynus. Letters,1945,false,true,true,New title: Volume III: Evagoras. Helen. Busiris. Plataicus. Concerning the Team of Horses. Trapeziticus. Against Callimachus. Aegineticus. Against Lochites. Against Euthynus. Letters,http://www.archive.org/details/isocrateswitheng03isocuoft
+L374,Demosthenes,Demosthenes VII: Funeral Speech (60). Erotic Essay (61). Exordia. Letters,1949,false,true,true,New title: Volume VII: Funeral Speech (60). Erotic Essay (61). Exordia. Letters,http://www.archive.org/details/funeralspeechero00demouoft
+L375,Diodorus Siculus,Library of History IV: Books 9-12.40,,,"",false,"",""
+L376,Dio Chrysostom,Dio Chrysostom IV: Discourses 37-60,1946,false,true,true,New title: Volume IV: Discourses 37-60,http://www.archive.org/details/diochrysostomwit04diocuoft
+L377,Diodorus Siculus,Library of History IX: Books 18-19.65,,,"",false,"",""
+L378,Dionysius of Halicarnassus,Roman Antiquities VI: Books 9.25-10,,,"",false,"",""
+L379,Philo,Volume X: On the Embassy to Gaius. General Indexes,,,"",true,"",""
+L380,Philo,Volume Supplement I: Questions and Answers on Genesis,,,"",true,"",""
+L381,Livy,Livy VIII: Books 28-30,1949,false,true,true,New title: History of Rome VIII: Books 28-30,http://www.archive.org/details/livywithenglisht08livyuoft
+L382,Sextus Empiricus,Volume IV: Against the Professors,,,"",false,"",""
+L383,Alciphron,The Letters,,,"",false,"",""
+L384,Diodorus Siculus,Library of History V: Books 12.41-13,,,"",false,"",""
+L385,Dio Chrysostom,Dio Chrysostom V: Discourses 61-80. Fragments. Letters,1951,false,true,true,New title: Volume V: Discourses 61-80. Fragments. Letters,http://www.archive.org/details/diochrysostomwit05diocuoft
+L386,Cicero,Volume II: On Invention. The Best Kind of Orator. Topics.,,,"",false,"",""
+L387,Prudentius,"Prudentius I: Liber Cathemerinon. Apotheosis. Hamartingenia. Psychomachia. Contra Orationem Symmachi, Liber I",1949,false,true,true,New title: Volume I: Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1,http://www.archive.org/details/prudentiuswithen01pruduoft
+L388,Dionysius of Halicarnassus,Roman Antiquities VII: Book 11. Fragments of Books 12-20,,,"",false,"",""
+L389,Diodorus Siculus,Library of History VII: Books 15.20-16.65,,,"",false,"",""
+L390,Diodorus Siculus,Library of History X: Books 19.66-20,,,"",false,"",""
+L391,Aristotle,Volume II: Posterior Analytics. Topica,,,"",false,"",""
+L392,Pliny,Natural History VI: Books 20-23,1951,false,true,true,"",http://www.archive.org/details/plinynaturalhist001816mbp
+L393,Pliny,Natural History VII: Books 24-27. Index of Plants,1966,false,"",true,"",http://www.archive.org/details/naturalhistory07plinuoft
+L394,Pliny,Natural History IX: Books 33-35,1961,false,true,true,"",http://www.archive.org/details/naturalhistory09plinuoft
+L395,Lycurgus,Minor Attic Orators II:  Lycurgus. Dinarchus. Demades. Hyperides,,,"",false,"",""
+L396,Livy,Livy XIII: Books 43-45,1951,false,true,true,New title: History of Rome XIII: Books 43-45,http://www.archive.org/details/livywithenglisht13livyuoft
+L397,Aristotle,Volume VII: Meteorologica,,,"",false,"",""
+L398,Prudentius,Volume II: Against Symmachus 2. Crowns of Martyrdom. Scenes From History. Epilogue,,,"",false,"",""
+L399,Diodorus Siculus,Library of History VI: Books 14-15.19,,,"",false,"",""
+L400,Aristotle,On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos,1955,false,true,true,New title: Volume III: On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos,http://www.archive.org/details/onsophisticalref00arisuoft
+L401,Philo,Volume Supplement II: Questions and Answers on Exodus,,,"",true,"",""
+L402,Caesar,Volume III: Alexandrian War. African War. Spanish War,,,"",false,"",""
+L403,Cicero,Volume I: Rhetorica ad Herennium,,,"",false,"",""
+L404,Livy,History of Rome XIV: Summaries. Fragments. Julius Obsequens. General Index,,,"",false,"",""
+L405,Plutarch,Moralia VII: On Love of Wealth. On Compliancy. On Envy and Hate. On Praising Oneself Inoffensively. On the Delays of the Divine Vengeance. On Fate. On the Sign of Socrates. On Exile. Consolation to His Wife,,,"",false,"",""
+L406,Plutarch,Moralia XII: Concerning the Face Which Appears in the Orb of the Moon. On the Principle of Cold. Whether Fire or Water Is More Useful. Whether Land or Sea Animals Are Cleverer. Beasts Are Rational. On the Eating of Flesh,,,"",true,"",http://www.archive.org/details/moraliainfifteen12plutuoft
+L407,Columella,On Agriculture II: Books 5-9,,,"",false,"",""
+L408,Columella,On Agriculture III: Books 10-12. On Trees,,,"",false,"",""
+L409,Diodorus Siculus,Library of History XI: Fragments of Books 21-32,,,"",false,"",""
+L410,Josephus,Volume XI: Jewish Antiquities Books 16-17,,,"",false,"",""
+L411,Augustine,City of God I: Books 1-3,,,"",false,"",""
+L412,Augustine,City of God II: Books 4-7,,,"",false,"",""
+L413,Augustine,City of God III: Books 8-11,,,"",false,"",""
+L414,Augustine,City of God IV: Books 12-15,,,"",false,"",""
+L415,Augustine,City of God V: Books 16-18.35,,,"",false,"",""
+L416,Augustine,City of God VI: Books 18.36-20,,,"",false,"",""
+L417,Augustine,City of God VII: Books 21-22,,,"",false,"",""
+L418,Pliny,Natural History VIII: Books 28-32. Index of Fishes,,,"",true,"",""
+L419,Pliny,Natural History X: Books 36-37,,,"",false,"",""
+L420,Sidonius,"Volume II: Letters, Books 3-9",,,"",false,"",""
+L421,Callimachus,"Volume I: Aetia, Iambi, Hecale and Other Fragments. Hero and Leander",,,"",false,"",""
+L422,Diodorus Siculus,Library of History VIII: Books 16.66-17,,,"",false,"",""
+L423,Diodorus Siculus,Library of History XII: Fragments of Books 33-40,,,"",false,"",""
+L424,Plutarch,"Moralia VIII: Table-talk, Books 1-6",,,"",false,"",""
+L425,Plutarch,"Moralia IX: Table-Talk, Books 7-9. Dialogue on Love",,,"",false,"",""
+L426,Plutarch,Moralia XI: On the Malice of Herodotus. Causes of Natural Phenomena,,,"",false,"",""
+L427,Plutarch,Moralia XIII Part 1: Platonic Essays,,,"",false,"",""
+L428,Plutarch,"Moralia XIV: That Epicurus Actually Makes a Pleasant Life Impossible. Reply to Colotes in Defence of the Other Philosophers. Is ""Live Unknown"" a Wise Precept? On Music",,,"",false,"",""
+L429,Plutarch,Moralia XV: Fragments,,,"",false,"",""
+L430,Lucian,"Lucian VI: How to Write History. The Dipsads. Saturnalia. Herodotus or Aetion. Zeuxis or Antiochus. A Slip of the Tongue in Greeting. Apology for the ""Salaried Posts in Great Houses."" Harmonides. A Conversation with Hesiod…",1959,false,true,true,"New title: Volume VI: How to Write History. The Dipsads. Saturnalia. Herodotus or Aetion. Zeuxis or Antiochus. A Slip of the Tongue in Greeting. Apology for the ""Salaried Posts in Great Houses."" Harmonides. A Conversation with Hesiod…",http://www.archive.org/details/luciankilb06luciuoft
+L431,Lucian,Lucian VII: Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans,1961,false,true,true,New title: Volume VII: Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans,http://www.archive.org/details/lucianmac07luciuoft
+L432,Lucian,Volume VIII: Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero,,,"",false,"",""
+L433,Josephus,Volume XII: Jewish Antiquities Books 18-19,,,"",false,"",""
+L434,Minor Latin Poets,Minor Latin Poets II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others,,,"",false,"",""
+L435,Ptolemy,Tetrabiblos,,,"",false,"",""
+L436,Babrius,Fables,,,"",false,"",""
+L437,Aristotle,Volume IX: History of Animals Books 1-3,,,"",false,"",""
+L438,Aristotle,Volume X: History of Animals Books 4-6,,,"",false,"",""
+L439,Aristotle,Volume XI: History of Animals Books 7-10,,,"",false,"",""
+L440,Plotinus,Volume I: Porphyry's Life of Plotinus. Ennead 1,,,"",false,"",""
+L441,Plotinus,Volume II: Ennead 2,,,"",false,"",""
+L442,Plotinus,Volume III: Ennead 3,,,"",false,"",""
+L443,Plotinus,Volume IV: Ennead 4,,,"",false,"",""
+L444,Plotinus,Volume V: Ennead 5,,,"",false,"",""
+L445,Plotinus,Volume VI: Ennead 6.1-5,,,"",false,"",""
+L446,Aelian,On the Characteristics of Animals I: Books 1-5,,,"",false,"",""
+L447,Cicero,Volume XIII: Pro Caelio. De Provinciis Consularibus. Pro Balbo,,,"",false,"",""
+L448,Aelian,On the Characteristics of Animals II: Books 6-11,,,"",false,"",""
+L449,Aelian,On the Characteristics of Animals III: Books 12-17,,,"",false,"",""
+L450,Seneca,"Volume VII: Naturales Quaestiones, Books 1-3",,,"",false,"",""
+L451,Libanius,Selected Orations I: Julianic Orations,,,"",false,"",""
+L452,Libanius,"Selected Orations II: Orations 2, 19-23, 30, 33, 45, 47-50",,,"",false,"",""
+L453,Apuleius,Metamorphoses (The Golden Ass) II: Books 7-11,,,"",false,"",""
+L454,Herodian,History of the Empire I: Books 1-4,,,"",false,"",""
+L455,Herodian,History of the Empire II: Books 5-8,,,"",false,"",""
+L456,Josephus,Volume XIII: Jewish Antiquities Book 20,,,"",false,"",""
+L457,Seneca,"Volume X: Naturales Quaestiones, Books 4-7",,,"",false,"",""
+L458N,Philostratus,Apollonius of Tyana III: Letters of Apollonius. Ancient Testimonia. Eusebius's Reply to Hierocles,,,"",false,"",""
+L459,Menander,Volume II: Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia,,,"",false,"",""
+L460N,Menander,Volume III: Samia. Sikyonioi. Synaristosai. Phasma. Unidentified Fragments,,,"",false,"",""
+L461,"","Greek Lyric IV: Bacchylides, Corinna, and Others",,,"",false,"",""
+L462,Cicero,Volume XXVIII. Letters to His Brother Quintus; Letters to Brutus; Handbook of Electioneering; Letter to Octavian,,,"",false,"",""
+L462N,Cicero,Volume XXVIII: Letters to Quintus and Brutus. Letter Fragments. Letter to Octavian. Invectives. Handbook of Electioneering,,,"",false,"",""
+L463,Seneca the Elder,"Declamations I: Controversiae, Books 1-6",,,"",false,"",""
+L464,Seneca the Elder,"Declamations II: Controversiae, Books 7-10. Suasoriae. Fragments",,,"",false,"",""
+L465,Dionysius of Halicarnassus,Critical Essays I: Ancient Orators. Lysias. Isocrates. Isaeus. Demosthenes. Thucydides,,,"",false,"",""
+L466,Dionysius of Halicarnassus,Critical Essays II: On Literary Composition. Dinarchus. Letters to Ammaeus and Pompeius,,,"",false,"",""
+L467,Cornelius Nepos,On Great Generals. On Historians,,,"",false,"",""
+L468,Plotinus,Volume VII: Ennead 6.6-9,,,"",false,"",""
+L469,Manilius,Astronomica,,,"",false,"",""
+L470,Plutarch,Moralia XIII Part 2: Stoic Essays,,,"",false,"",""
+L471,Theophrastus,De Causis Plantarum I: Books 1-2,,,"",false,"",""
+L472,Hippocrates,Volume V: Affections. Diseases 1. Diseases 2,,,"",false,"",""
+L473,Hippocrates,Volume VI: Diseases 3. Internal Affections. Regimen in Acute Diseases,,,"",false,"",""
+L474,Theophrastus,De Causis Plantarum II: Books 3-4,,,"",false,"",""
+L475,Theophrastus,De Causis Plantarum III: Books 5-6,,,"",false,"",""
+L476,"","Greek Lyric III: Stesichorus, Ibycus, Simonides, and Others",,,"",false,"",""
+L477,Hippocrates,"Volume VII: Epidemics 2, 4-7",,,"",false,"",""
+L478,Libanius,Autobiography and Selected Letters I: Autobiography. Letters 1-50,,,"",false,"",""
+L479,Libanius,Autobiography and Selected Letters II: Letters 51-193,,,"",false,"",""
+L480,Martial,Epigrams III: Books 11-14,,,"",false,"",""
+L481,Chariton,Callirhoe,,,"",false,"",""
+L482,Hippocrates,Volume VIII: Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas,,,"",false,"",""
+L483,Sophocles,Volume III: Fragments,,,"",false,"",""
+L484,Euripides,Volume II: Children of Heracles. Hippolytus. Andromache. Hecuba,,,"",false,"",""
+L485,Pindar,Volume II: Nemean Odes. Isthmian Odes. Fragments,,,"",false,"",""
+L486,Aelian,Historical Miscellany,,,"",false,"",""
+L487,Josephus,Volume III: The Jewish War Books 3-4,,,"",false,"",""
+L488,Aristophanes,Volume II: Clouds. Wasps. Peace,,,"",false,"",""
+L489,Josephus,Volume X: Jewish Antiquities Books 14-15,,,"",false,"",""
+L490,Josephus,Volume VI: Jewish Antiquities Books 4-6,,,"",false,"",""
+L491,Cicero,Volume XXIX: Letters to Atticus 282-426,,,"",false,"",""
+L492,Valerius Maximus,Memorable Doings and Sayings I: Books 1-5,,,"",false,"",""
+L493,Valerius Maximus,Memorable Doings and Sayings II: Books 6-9,,,"",false,"",""
+L494N,Quintilian,Orator's Education V: Books 11-12,,,"",false,"",""
+L495,Euripides,Volume VI: Bacchae. Iphigenia at Aulis. Rhesus,,,"",false,"",""
+L496,"","Hesiod, the Homeric Hymns, and Homerica",1914,true,"",true,New title: Homeric Hymns. Homeric Apocrypha. Lives of Homer,http://www.archive.org/details/hesiodhomerichym00hesiuoft http://books.google.com/books?id=cotA1ZFPrTgC
+L497,"",Greek Epic Fragments,,,"",false,"",""
+L498,Statius,"Volume III: Thebaid, Books 8-12. Achilleid",,,"",false,"",""
+L499,Plutarch,Moralia XVI: Index,,,"",false,"",""
+L500,Quintilian,Lesser Declamations I,,,"",false,"",""
+L501,Quintilian,Lesser Declamations II,,,"",false,"",""

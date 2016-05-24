@@ -5,10 +5,12 @@ This repository is intended for collaborative assessment of the (primarily U.S.)
 Work will happen in `loeb-copyright.csv`, with the fields:
 
 * `identifier` - e.g. L001
-* `title` - human-readable title of the work (optionally including ancient author)
+* `author` - ancient author
+* `title` - human-readable title of the work
 * `year_published` - year of first publication *of this translation*
 * `pre_1923` - true if `year_published < 1923`
 * `1923-1963_copyright_not_renewed` - true if `1923 <= year_published <= 1963` *and* verified that copyright was not renewed, false if verified that copyright *was* renewed, undefined if not checked/known
+* `in_loebolus` - true if a PDF for this identifier is in Loebolus
 * `notes` - free-form descriptive text for work notes
 * `urls` - space-separated list of associated URLs (Internet Archive, Google Books, link to page with metadata about *this translation*, etc.)
 
