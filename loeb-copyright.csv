@@ -159,7 +159,7 @@ L157,Julian,Julian III: Letters. Epigrams. Against the Galilaeans. Fragments,192
 L158,Cicero,Volume XI: Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Cn. Plancio,,,"",false,"",""
 L159,Polybius,Histories IV: Books 9-15,,,"",true,"",""
 L160,Polybius,Histories V: Books 16-27,,,"",true,"",""
-L161,Polybius,Histories VI: Books 28-39,1968,false,"",true,"",http://www.archive.org/details/historieswitheng06poly
+L161,Polybius,Histories VI: Books 28-39,1927,false,true,true,"",http://www.archive.org/details/historieswitheng06poly
 L162,Lucian,Lucian IV: Anacharsis or Athletics. Menippus or The Descent into Hades. On Funerals. A Professor of Public Speaking. Alexander the False Prophet. Essays in Portraiture. Essays in Portraiture Defended. The Goddesse of Surrye,1961,false,true,true,New title: Volume IV: Anacharsis or Athletics. Menippus or The Descent into Hades. On Funerals. A Professor of Public Speaking. Alexander the False Prophet. Essays in Portraiture. Essays in Portraiture Defended. The Goddesse of Surrye,http://www.archive.org/details/lucianhar04luciuoft
 L163,Plautus,Plautus III: The Merchant. The Braggart Warrior. The Haunted House. The Persian,1924,false,true,true,New title: Volume III: The Merchant. The Braggart Warrior. The Haunted House. The Persian,http://www.archive.org/details/plautuswithengli03plauuoft
 L164,Plato,Volume VIII: Statesman. Philebus. Ion,,,"",false,"",""
@@ -200,7 +200,7 @@ L197,Plutarch,Moralia I: The Education of Children. How the Young Man Should Stu
 L198,Cicero,Volume IX: Pro Lege Manilia. Pro Caecina. Pro Cluentio. Pro Rabirio Perduellionis Reo,,,"",false,"",""
 L199,Aristotle,Volume XXIII: Poetics. On the Sublime. On Style,,,"",false,"",""
 L200,Aulus Gellius,Attic Nights II: Books 6-13,,,"",false,"",""
-L201,Plato,Charmides. Alcibiades 1 & 2. Hipparchus. The Lovers. Theages. Minos. Epinomis,1964,false,"",true,New title: Volume XII: Charmides. Alcibiades 1 & 2. Hipparchus. The Lovers. Theages. Minos. Epinomis,http://www.archive.org/details/charmidesalcibia00platuoft
+L201,Plato,Charmides. Alcibiades 1 & 2. Hipparchus. The Lovers. Theages. Minos. Epinomis,1927,false,true,true,New title: Volume XII: Charmides. Alcibiades 1 & 2. Hipparchus. The Lovers. Theages. Minos. Epinomis,http://www.archive.org/details/charmidesalcibia00platuoft
 L202,Isaeus,Isaeus,,,"",false,"",""
 L203,Josephus,Josephus II: The Jewish War Books 1-3,1956,false,true,true,New title: Volume II: The Jewish War Books 1-2,http://www.archive.org/details/josephuswithengl02joseuoft
 L204,Athenaeus,The Deipnosophists I: Books 1-3.106e,,,"",false,"",""
@@ -235,7 +235,7 @@ L232,Ovid,Volume II: Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tre
 L233,Livy,History of Rome V: Books 21-22,,,"",false,"",""
 L234,Plato,Volume IX: Timaeus. Critias. Cleitophon. Menexenus. Epistles,,,"",false,"",""
 L235,Athenaeus,The Deipnosophists IV: Books 8-10,,,"",false,"",""
-L236,Arrian,"Anabasis Alexandri, Books 1-4",1967,false,"",true,"New title: Anabasis of Alexander, Books 1-4",http://www.archive.org/details/arrianar01arriuoft
+L236,Arrian,"Anabasis Alexandri, Books 1-4",1929,false,true,true,"New title: Anabasis of Alexander, Books 1-4",http://www.archive.org/details/arrianar01arriuoft
 L237,Plato,Republic I: Books 1-5,1937,false,true,true,"New title: Volume V: The Republic, Books 1-5",http://www.archive.org/details/republicshorey01platuoft
 L238,Demosthenes,Volume I: Olynthiacs 1-3. Philippic 1. On the Peace. Philippic 2. On Halonnesus. On the Chersonese. Philippics 3 and 4. Answer to Philip's Letter. Philip's Letter. On Organization. On the Navy-boards. For the Liberty of the Rhodians…,,,"",false,"",""
 L239,Augustine,Select Letters,1930,false,true,true,"",http://www.archive.org/details/selectletters00auguuoft
@@ -243,13 +243,13 @@ L240,Cicero,Volume VI: Pro Quinctio. Pro Roscio Amerino. Pro Roscio Comoedo. The
 L241,Strabo,Geography VII: Books 15-16,1930,false,true,true,"",http://www.archive.org/details/geographyofstrab07strauoft
 L242,Josephus,Josephus IV: Jewish Antiquities Books 1-4,1961,false,true,true,New title: Volume V: Jewish Antiquities Books 1-3,http://www.archive.org/details/josephuswithengl04joseuoft
 L243,Basil,Volume III: Letters 186-248,,,"",false,"",""
-L244,Lysias,Lysias,1967,false,"",true,"",http://www.archive.org/details/lysiaslamb00lysiuoft
+L244,Lysias,Lysias,1930,false,true,true,"",http://www.archive.org/details/lysiaslamb00lysiuoft
 L245,Plutarch,Moralia III: Sayings of Kings and Commanders. Sayings of Romans. Sayings of Spartans. The Ancient Customs of the Spartans. Sayings of Spartan Women. Bravery of Women,,,"",true,"",http://www.archive.org/details/moraliainfifteen03plutuoft
 L246,Bede,Opera Historica I: Books 1-3,1962,false,true,true,"New title: Ecclesiastical History, Books 1-3",http://www.archive.org/details/operahistorica01bedeuoft
 L247,Philo,Volume III: On the Unchangeableness of God. On Husbandry. Concerning Noah's Work As a Planter. On Drunkenness. On Sobriet,,,"",true,"",""
 L248,Bede,Opera Historica II: Books 4-5. Lives of the Abbots. Letter to Egbert,1930,false,true,true,"New title: Ecclesiastical History, Books 4-5. Lives of the Abbots. Letter to Egbert",http://www.archive.org/details/operahistoric02bedeuoft
 L249,Tacitus,Histories II: 4-5. Annals 1-3,1962,false,true,true,New title: Volume III: Histories 4-5. Annals 1-3,http://www.archive.org/details/histories02taciuoft
-L250,Tertullian,Apology and De Spectaculis. Octavius,1977,false,"",true,"",http://www.archive.org/details/apologydespectac00tertuoft
+L250,Tertullian,Apology and De Spectaculis. Octavius,1931,false,true,true,"",http://www.archive.org/details/apologydespectac00tertuoft
 L251,Vitruvius,Vitruvius on Architecture I: Books 1-5,1931,false,"",false,New title: On Architecture I: Books 1-5,http://www.archive.org/details/vitruviusonarchi006859mbp
 L252,Cicero,Volume XIV: Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro,,,"",false,"",""
 L253,Ovid,Fasti,1959,false,true,true,New title: Volume V: Fasti,http://www.archive.org/details/ovidsfasti00oviduoft
@@ -259,15 +259,15 @@ L256,Philostratus the Elder,Imagines. Callistatus: Descriptions,1931,false,true,
 L257,Dio Chrysostom,Volume I: Discourses 1-11,,,"",false,"",""
 L258N,Tyrtaeus,Greek Elegiac Poetry,,,"",false,"",""
 L259N,"",Greek Iambic Poetry:  From the Seventh to the Fifth Centuries BC,,,"",false,"",""
-L260,Plautus,Plautus IV: The Little Carthaginian. Pseudolus. The Rope,1980,false,"",true,New title: Volume IV: The Little Carthaginian. Pseudolus. The Rope,http://www.archive.org/details/plautuswithengli04plauuoft
+L260,Plautus,Plautus IV: The Little Carthaginian. Pseudolus. The Rope,1932,false,true,true,New title: Volume IV: The Little Carthaginian. Pseudolus. The Rope,http://www.archive.org/details/plautuswithengli04plauuoft
 L261,Philo,Volume IV: On the Confusion of Tongues. On the Migration of Abraham. Who Is the Heir of Divine Things? On Mating with the Preliminary Studies,,,"",true,"",""
 L262,Jerome,Select Letters,1933,false,true,true,"",http://www.archive.org/details/selectlettersofs00jerouoft
 L263,"","Scriptores Historiae Augustae III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian",1932,false,true,true,"New title: Historia Augusta III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian",http://www.archive.org/details/scriptoreshistor03camb http://books.google.com/books?id=teHTdGpmuJIC
 L264,Aristotle,Politics,1959,false,true,true,New title: Volume XXI: Politics,http://www.archive.org/details/politicsrackh00arisuoft
 L265,Eusebius,Ecclesiastical History II: Books 6-10,1942,false,true,true,New title: Volume II: Books 6-10,http://www.archive.org/details/ecclesiasticalhi02euseuoft
 L266,"","Papyri I: Private Documents (Agreements, Receipts, Wills, Letters, Memoranda, Accounts and Lists, and Others)",,,"",false,"",""
-L267,Strabo,Geography VIII: Book 17 and General Index,1967,false,"",true,"",http://www.archive.org/details/geographyofstrab08strauoft
-L268,Cicero,De Natura Deorum. Academica,1967,false,"",true,New title: Volume XIX: On the Nature of the Gods. Academics,http://www.archive.org/details/denaturadeorumac00ciceuoft
+L267,Strabo,Geography VIII: Book 17 and General Index,1932,false,true,true,"",http://www.archive.org/details/geographyofstrab08strauoft
+L268,Cicero,De Natura Deorum. Academica,1933,false,true,true,New title: Volume XIX: On the Nature of the Gods. Academics,http://www.archive.org/details/denaturadeorumac00ciceuoft
 L269,Arrian,"Anabasis of Alexander, Books 5-7. Indica",,,"",false,"",""
 L270,Basil,Basil IV: Letters 249-368. Address to Young Men on Greek Literature,1934,false,true,true,New title: Volume IV: Letters 249-368. Address to Young Men on Greek Literature,http://www.archive.org/details/letterswithengli04basiuoft
 L271,Aristotle,Volume XVII: Metaphysics Books 1-9,,,"",false,"",""
@@ -329,7 +329,7 @@ L326,Josephus,Josephus VI: Jewish Antiquities Books 9-11,1958,false,true,true,Ne
 L327,Athenaeus,The Deipnosophists VI: Books 13-14.653b,,,"",false,"",""
 L328,Plautus,Plautus V: Stichus. Trinummus (Three Bob Day). Truculentus. The Tale of a Travelling Bag. Fragments,1952,false,true,true,New title: Volume V: Stichus. Trinummus (Three Bob Day). Truculentus. The Tale of a Travelling Bag. Fragments,http://www.archive.org/details/plautuswithengli05plauuoft
 L329,"",Remains of Old Latin III: Lucilius. The Twelve Tables,,,"",false,"",""
-L330,Pliny,Natural History I: Books 1-2,1967,false,"",true,"",http://www.archive.org/details/naturalhistory01plinuoft
+L330,Pliny,Natural History I: Books 1-2,1938,false,true,true,"Note: revised 1949",http://www.archive.org/details/naturalhistory01plinuoft
 L331,Ammianus Marcellinus,Roman History III: Books 27-31. Excerpta Valesiana,,,"",false,"",""
 L332,Livy,History of Rome XII: Books 40-42,,,"",false,"",""
 L333,Varro,On the Latin Language I: Books 5-7,1938,false,true,true,"",http://www.archive.org/details/onlatinlanguage01varruoft
@@ -349,7 +349,7 @@ L346,Demosthenes,Volume V: Private Orations (41-49),,,"",false,"",""
 L347,Dionysius of Halicarnassus,Roman Antiquities II: Books 3-4,,,"",false,"",""
 L348,Cicero,Volume III: On the Orator Books 1-2,,,"",false,"",""
 L349,Cicero,Volume IV: On the Orator: Book 3. On Fate. Stoic Paradoxes. On the Divisions of Oratory,,,"",false,"",""
-L350,Manetho,History of Egypt and Other Works,1964,false,"",true,"",http://www.archive.org/details/manethowithengli00maneuoft
+L350,Manetho,History of Egypt and Other Works,1940,false,true,true,"",http://www.archive.org/details/manethowithengli00maneuoft
 L351,Demosthenes,Volume VI: Private Orations (50-58). In Neaeram (59),,,"",false,"",""
 L352,Pliny,Natural History II: Books 3-7,1961,false,true,true,"",http://www.archive.org/details/naturalhistory02plinuoft
 L353,Pliny,Natural History III: Books 8-11,1940,false,true,true,"",http://www.archive.org/details/plinynaturalhist005560mbp
@@ -392,7 +392,7 @@ L389,Diodorus Siculus,Library of History VII: Books 15.20-16.65,,,"",false,"",""
 L390,Diodorus Siculus,Library of History X: Books 19.66-20,,,"",false,"",""
 L391,Aristotle,Volume II: Posterior Analytics. Topica,,,"",false,"",""
 L392,Pliny,Natural History VI: Books 20-23,1951,false,true,true,"",http://www.archive.org/details/plinynaturalhist001816mbp
-L393,Pliny,Natural History VII: Books 24-27. Index of Plants,1966,false,"",true,"",http://www.archive.org/details/naturalhistory07plinuoft
+L393,Pliny,Natural History VII: Books 24-27. Index of Plants,1956,false,true,true,"",http://www.archive.org/details/naturalhistory07plinuoft
 L394,Pliny,Natural History IX: Books 33-35,1961,false,true,true,"",http://www.archive.org/details/naturalhistory09plinuoft
 L395,Lycurgus,Minor Attic Orators II:  Lycurgus. Dinarchus. Demades. Hyperides,,,"",false,"",""
 L396,Livy,Livy XIII: Books 43-45,1951,false,true,true,New title: History of Rome XIII: Books 43-45,http://www.archive.org/details/livywithenglisht13livyuoft
