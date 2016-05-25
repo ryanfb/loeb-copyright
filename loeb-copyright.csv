@@ -102,8 +102,8 @@ L100,Plutarch,"Lives VIII: Sertorius and Eumenes. Phocion and Cato the Younger",
 L101,Plutarch,"Lives IX: Demetrius and Antony. Pyrrhus and Gaius Marius",1920,,,true,,true,,"http://www.archive.org/details/plutarchslives09plut http://books.google.com/books?id=5GYMAAAAIAAJ"
 L102,Plutarch,"Lives X: Agis and Cleomenes. Tiberius and Gaius Gracchus. Philopoemen and Flamininus",1921,,,true,,true,,"http://www.archive.org/details/plutarchslives10plut http://books.google.com/books?id=5WYMAAAAIAAJ"
 L103,Plutarch,"Lives XI: Aratus. Artaxerxes. Galba. Otho. General Index",1926,,,false,true,true,,http://www.archive.org/details/plutarchslives11plut
-L104,Homer,"Odyssey I: Books 1-12",1945,,,false,true,true,,http://www.archive.org/details/odysseyh01homeuoft
-L105,Homer,"Odyssey II: Books 13-24",1919,,,true,,true,,http://books.google.com/books?id=_shfAAAAMAAJ
+L104,Homer,"Odyssey I: Books 1-12",1945,Augustus Taber Murray,1940,false,true,true,,http://www.archive.org/details/odysseyh01homeuoft
+L105,Homer,"Odyssey II: Books 13-24",1919,Augustus Taber Murray,1940,true,,true,,http://books.google.com/books?id=_shfAAAAMAAJ
 L106,Aeschines,Speeches,1919,,,true,,true,,"http://www.archive.org/details/speechesaeschin00adamgoog http://books.google.com/books?id=WzXz-4u6YXoC"
 L107,Procopius,"Procopius III: History of the Wars, Books 5-6.15",1919,,,true,,true,"New title: Volume III: History of the Wars, Books 5-6.15. (Gothic War)",http://books.google.com/books?id=ddZfAAAAMAAJ
 L108,Thucydides,"History of the Peleponnesian War I: Books 1-2",1956,,,false,true,true,,http://www.archive.org/details/thucydideswithen01thucuoft
@@ -168,8 +168,8 @@ L166,Plato,"Volume III: Lysis. Symposium. Gorgias",,,,,,false,,
 L167,Plato,"Volume IV: Cratylus. Parmenides. Greater Hippias. Lesser Hippias",,,,,,false,,
 L168,Xenophon,"Volume IV: Memorabilia and Oeconomicus. Symposium and Apologia",,,,,,false,,
 L169,Thucydides,http://www.archive.org/details/historyofpelopon04thucuoft,1958,,,false,true,true,"New title: History of the Peleponnesian War IV: Books 7-8. General Index",http://www.archive.org/details/historyofpelopon04thucuoft
-L170N,Homer,"Iliad I: Books 1-12",1928,,,false,true,true,,http://www.archive.org/details/HomersIliadloeb1
-L171N,Homer,"Iliad II: Books 13-24",,,,,,false,,
+L170N,Homer,"Iliad I: Books 1-12",1928,Augustus Taber Murray,1940,false,true,true,,http://www.archive.org/details/HomersIliadloeb1
+L171N,Homer,"Iliad II: Books 13-24",,Augustus Taber Murray,1940,,,false,,
 L172,Livy,"History of Rome III: Books 5-7",,,,,,false,,
 L173,Procopius,"Volume IV: History of the Wars, Books 6.16-7.35. (Gothic War)",,,,,,false,,
 L174,Frontinus,"Stratagems. Aqueducts of Rome",1925,,,false,true,true,,http://www.archive.org/details/stratagemsaquedu00fronuoft
