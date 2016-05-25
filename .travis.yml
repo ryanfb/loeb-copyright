@@ -1,0 +1,5 @@
+language: ruby
+sudo: false
+before_script:
+  - gem install csvlint
+script: csvlint loeb-copyright.csv
