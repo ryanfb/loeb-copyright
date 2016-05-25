@@ -8,6 +8,8 @@ Work will happen in `loeb-copyright.csv`, with the fields:
 * `author` - ancient author
 * `title` - human-readable title of the work
 * `year_published` - year of first publication *of this translation*
+* `translator` - name of the translator with most recent year of death
+* `translator_year_of_death` - year of death of the translator with most recent year of death, blank if unknown, `N/A` if still living
 * `pre_1923` - true if `year_published < 1923`
 * `1923-1963_copyright_not_renewed` - true if `1923 <= year_published <= 1963` *and* verified that copyright was not renewed, false if verified that copyright *was* renewed, undefined if not checked/known
 * `in_loebolus` - true if a PDF for this identifier is in Loebolus
