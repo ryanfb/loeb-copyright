@@ -4,4 +4,4 @@ rvm:
 sudo: false
 before_script:
   - gem install csvlint
-script: csvlint loeb-copyright.csv
+script: csvlint loeb-copyright.csv --schema=schema.json

@@ -1,0 +1,63 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "https://github.com/ryanfb/loeb-copyright/blob/master/loeb-copyright.csv",
+    "tableSchema": {
+        "columns": [
+            {
+                "name": "identifier",
+                "required": true,
+                "datatype": { "base": "string", "minLength": 4 }
+            },
+            {
+                "name": "author",
+                "required": false,
+                "datatype": { "base": "string" }
+            },
+            {
+                "name": "title",
+                "required": true,
+                "datatype": { "base": "string" }
+            },
+            {
+                "name": "year_published",
+                "required": false,
+                "datatype": { "base": "gYear" }
+            },
+            {
+                "name": "translator",
+                "required": false,
+                "datatype": { "base": "string" }
+            },
+            {
+                "name": "translator_year_of_death",
+                "required": false,
+                "datatype": { "base": "gYear" }
+            },
+            {
+                "name": "pre_1923",
+                "required": false,
+                "datatype": { "base": "boolean" }
+            },
+            {
+                "name": "1923_1963_copyright_not_renewed",
+                "required": false,
+                "datatype": { "base": "boolean" }
+            },
+            {
+                "name": "in_loebolus",
+                "required": false,
+                "datatype": { "base": "boolean" }
+            },
+            {
+                "name": "notes",
+                "required": false,
+                "datatype": { "base": "string" }
+            },
+            {
+                "name": "urls",
+                "required": false,
+                "datatype": { "base": "string" }
+            }
+        ]
+    }
+}
