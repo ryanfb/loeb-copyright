@@ -78,7 +78,7 @@ doc.xpath('//a[contains(@href,"books.google.com") or contains(@href,"www.archive
 end
 
 # puts associations.to_yaml
-CSV.open('loeb-copyright.csv', "wb") do |csv|
+CSV.open('loeb-copyright-old.csv', "wb") do |csv|
   csv << %w{identifier author title year_published pre_1923 1923-1963_copyright_not_renewed in_loebolus notes urls}
   associations.each_key do |volume|
     urls = [associations[volume]['archive'], associations[volume]['google']].join(' ').strip
@@ -91,6 +91,15 @@ CSV.open('loeb-copyright.csv', "wb") do |csv|
       (associations[volume]['original_year'].to_i >= 1923) &&
       (associations[volume]['original_year'].to_i <= 1963) &&
       associations[volume]['in_loebolus']) || ''
+    if associations[volume]['in_loebolus'] && associations[volume]['original_year'] && (associations[volume]['original_year'].to_i > 1963)
+      $stderr.puts "COPYRIGHT WARNING: #{volume}"
+    end
+    if associations[volume]['in_loebolus'] && !associations[volume]['original_year']
+      $stderr.puts "NEEDS_YEAR: #{volume}"
+    end
+    if pre_1923 && !associations[volume]['in_loebolus']
+      $stderr.puts "NEEDS_PDF: #{volume}"
+    end
     csv << [volume, associations[volume]['author'], associations[volume]['original_title'], associations[volume]['original_year'], pre_1923, not_renewed, associations[volume]['in_loebolus'], notes, urls]
   end
 end
