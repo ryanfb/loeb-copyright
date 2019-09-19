@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.3.6
+  - 2.6.4
 sudo: false
 before_script:
   - gem install csvlint
