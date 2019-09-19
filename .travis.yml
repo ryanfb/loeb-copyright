@@ -3,5 +3,6 @@ rvm:
   - 2.4.7
 sudo: false
 before_script:
+  - gem install activesupport -v 5.2.3
   - gem install csvlint
 script: csvlint loeb-copyright.csv --schema=schema.json
